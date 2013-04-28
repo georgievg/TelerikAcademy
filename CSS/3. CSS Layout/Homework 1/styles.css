@@ -1,0 +1,24 @@
+﻿body
+{
+    
+}
+.menu
+{
+    
+    list-style-type:none;
+    font-weight:bold;
+}
+    .menu li:hover
+    {
+        text-decoration:underline;
+    }
+    .item2
+    {
+        display:none;
+    }
+    .item1:hover .item2
+    {
+        color:gray;
+        display:block;
+    }
+   

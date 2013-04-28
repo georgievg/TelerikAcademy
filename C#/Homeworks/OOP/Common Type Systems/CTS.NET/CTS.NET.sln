@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.2.3.Student-Overrides etc", "Student-Overrides\1.2.3.Student-Overrides etc.csproj", "{2B84E212-780F-4827-861D-B24C25D90EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Person", "4.Person\4.Person.csproj", "{6AD945FE-D064-4A70-A9DA-390036A1A366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.BitArray64", "5.BitArray64\5.BitArray64.csproj", "{FED425C5-17E5-427E-B967-365624832C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Binary Search Tree", "6.Binary Search Tree\6.Binary Search Tree.csproj", "{BB218C92-4A21-4946-B83A-204333051274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B84E212-780F-4827-861D-B24C25D90EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B84E212-780F-4827-861D-B24C25D90EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B84E212-780F-4827-861D-B24C25D90EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B84E212-780F-4827-861D-B24C25D90EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD945FE-D064-4A70-A9DA-390036A1A366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD945FE-D064-4A70-A9DA-390036A1A366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD945FE-D064-4A70-A9DA-390036A1A366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD945FE-D064-4A70-A9DA-390036A1A366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED425C5-17E5-427E-B967-365624832C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED425C5-17E5-427E-B967-365624832C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED425C5-17E5-427E-B967-365624832C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED425C5-17E5-427E-B967-365624832C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB218C92-4A21-4946-B83A-204333051274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB218C92-4A21-4946-B83A-204333051274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB218C92-4A21-4946-B83A-204333051274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB218C92-4A21-4946-B83A-204333051274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Abstraction\obj\Debug\Abstraction.pdb

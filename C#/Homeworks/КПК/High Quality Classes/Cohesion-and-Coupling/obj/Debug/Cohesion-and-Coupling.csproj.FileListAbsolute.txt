@@ -1,0 +1,5 @@
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

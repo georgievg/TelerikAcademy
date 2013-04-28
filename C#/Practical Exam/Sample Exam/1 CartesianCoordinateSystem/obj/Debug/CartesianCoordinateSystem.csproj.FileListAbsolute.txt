@@ -1,0 +1,6 @@
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe.config
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.pdb
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb

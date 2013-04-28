@@ -1,0 +1,5 @@
+C:\Users\fatal_000\Google Drive\Telerik\C#\OOP Exam\Document System\obj\Debug\DocumentSystem.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Google Drive\Telerik\C#\OOP Exam\Document System\bin\Debug\DocumentSystem.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\OOP Exam\Document System\bin\Debug\DocumentSystem.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C#\OOP Exam\Document System\obj\Debug\DocumentSystem.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\OOP Exam\Document System\obj\Debug\DocumentSystem.pdb

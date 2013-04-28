@@ -1,0 +1,29 @@
+body, div,ul,li,a{
+	margin:0;
+	padding:0;
+}
+
+ul{
+	margin:50px;
+	list-style-type: none;
+	background: url(../imgs/menuTile.png) repeat-x;	
+	height: 48px;
+	border:1px solid #cfcfcf;
+	width:521px;
+	border-radius: 6px;
+}
+ul li{	
+	display:inline-block;
+	padding: 0 13px;
+	font-family: Arial, sans-serif;
+	font-size: 13.5pt;
+	border-right: 1px solid #cfcfcf;
+}
+ul li:last-of-type{
+	border:none;
+}
+ul li a{
+	text-decoration: none;	
+	line-height:48px;
+	color:#a7162e;
+}

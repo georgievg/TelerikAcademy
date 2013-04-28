@@ -1,0 +1,5 @@
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\ICloneable\bin\Debug\ICloneable.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\ICloneable\bin\Debug\ICloneable.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\ICloneable\obj\Debug\2.ICloneable.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\ICloneable\obj\Debug\ICloneable.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\ICloneable\obj\Debug\ICloneable.pdb

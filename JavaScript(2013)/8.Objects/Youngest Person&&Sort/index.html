@@ -1,0 +1,57 @@
+<script>
+
+function createPerson (fName,lName,age) {
+	return{
+		FirstName :  fName,
+		LastName :  lName,
+		Age :  age,
+		sayNames: function (){
+			return this.FirstName + " " + this.LastName;
+		}
+	}
+	
+};
+var persons = [
+	createPerson("pesho","georgiev",53),
+	createPerson("georgi","atanasov",21),
+	createPerson("margarita","georgieva",11),
+	createPerson("lubomir","lubchev",25)
+
+];
+function findYoungest (arrPersons) {
+	var youngest = {};
+	var year = 9999;
+	for (prop in arrPersons) {
+	    if (arrPersons[prop].Age < year) {
+	        year = arrPersons[prop].Age;
+	        youngest = arrPersons[prop];
+	    }
+	}
+	return youngest;
+}
+
+console.log(findYoungest(persons).sayNames());
+
+/*-----  Persons sort  ------*/
+function sortObject (obj,property) {
+	var arr = [];
+	for (var prop in obj) {
+	   	arr.push({
+	   		'key': prop,
+	   		'value':obj[prop].Age,
+	   		'group':obj[prop].sayNames()
+	   	});
+	}
+	arr.sort(function (a,b) {
+		if (a.value < b.value)
+     		return -1;
+  		if (a.value > b.value)
+    		return 1;
+  		return 0;
+	});
+	return arr;
+}
+console.log(sortObject(persons,'age'));
+
+
+</script>

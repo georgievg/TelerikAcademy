@@ -1,0 +1,6 @@
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\ForestRoad\bin\Debug\ForestRoad.exe.config
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\ForestRoad\bin\Debug\ForestRoad.exe
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\ForestRoad\bin\Debug\ForestRoad.pdb
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\ForestRoad\obj\Debug\ForestRoad.exe
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\ForestRoad\obj\Debug\ForestRoad.pdb
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\ForestRoad\obj\Debug\ForestRoad.csprojResolveAssemblyReference.cache

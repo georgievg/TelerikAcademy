@@ -1,0 +1,5 @@
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\MissCat2011\bin\Debug\MissCat2011.exe.config
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\MissCat2011\bin\Debug\MissCat2011.exe
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\MissCat2011\bin\Debug\MissCat2011.pdb
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\MissCat2011\obj\Debug\MissCat2011.exe
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\MissCat2011\obj\Debug\MissCat2011.pdb

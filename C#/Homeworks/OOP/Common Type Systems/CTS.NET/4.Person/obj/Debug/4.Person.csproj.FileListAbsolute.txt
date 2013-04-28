@@ -1,0 +1,5 @@
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\4.Person\obj\Debug\4.Person.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\4.Person\bin\Debug\4.Person.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\4.Person\bin\Debug\4.Person.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\4.Person\obj\Debug\4.Person.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\4.Person\obj\Debug\4.Person.pdb

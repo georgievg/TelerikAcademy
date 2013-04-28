@@ -1,0 +1,62 @@
+body, div, header, nav, ul, li, a {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: Arial;
+  font-size: 16px; }
+  body a {
+    text-decoration: none;
+    color: black;
+    font-size: 2em; }
+  body div#wrapper header {
+    width: 960px;
+    height: 200px;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #002d44), color-stop(100%, #77d0fe));
+    background: -webkit-linear-gradient(top, #002d44 0%, #77d0fe 100%);
+    background: linear-gradient(to bottom, #002d44 0%, #77d0fe 100%); }
+    body div#wrapper header nav > ul {
+      padding-top: 50px; }
+      body div#wrapper header nav > ul > li {
+        padding: 5px;
+        margin-right: 5px; }
+        body div#wrapper header nav > ul > li > ul > li {
+          margin-right: 15px; }
+    body div#wrapper header nav {
+      position: relative; }
+      body div#wrapper header nav ul {
+        margin-left: 50px; }
+        body div#wrapper header nav ul > li:hover {
+          background-color: #115B81;
+          border-radius: 15px; }
+        body div#wrapper header nav ul > li {
+          display: inline-block; }
+          body div#wrapper header nav ul > li > ul {
+            display: none; }
+        body div#wrapper header nav ul li.selected {
+          background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #184155), color-stop(100%, #27566d));
+          background: -webkit-linear-gradient(top, #184155 0%, #27566d 100%);
+          background: linear-gradient(to bottom, #184155 0%, #27566d 100%);
+          border-radius: 15px; }
+          body div#wrapper header nav ul li.selected > ul {
+            display: inline-block;
+            position: absolute;
+            left: 0; }
+            body div#wrapper header nav ul li.selected > ul li {
+              padding: 5px; }
+        body div#wrapper header nav ul li.selected ul li:hover > ul {
+          display: block;
+          position: absolute;
+          background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fdfdff), color-stop(100%, #77d1ff));
+          background: -webkit-linear-gradient(top, #fdfdff 0%, #77d1ff 100%);
+          background: linear-gradient(to bottom, #fdfdff 0%, #77d1ff 100%);
+          padding: 10px;
+          margin-left: 10px;
+          border-radius: 15px; }
+          body div#wrapper header nav ul li.selected ul li:hover > ul li {
+            display: block;
+            border-bottom: 1px solid black; }
+            body div#wrapper header nav ul li.selected ul li:hover > ul li:hover {
+              background-color: #45819F; }
+            body div#wrapper header nav ul li.selected ul li:hover > ul li:last-of-type {
+              border-bottom: none; }

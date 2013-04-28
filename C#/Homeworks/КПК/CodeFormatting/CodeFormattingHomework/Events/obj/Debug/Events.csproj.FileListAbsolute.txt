@@ -1,0 +1,8 @@
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\bin\Debug\Events.exe.config
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\bin\Debug\Events.exe
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\bin\Debug\Events.pdb
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\bin\Debug\PowerCollections.dll
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\bin\Debug\PowerCollections.xml
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\obj\Debug\Events.exe
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\obj\Debug\Events.pdb

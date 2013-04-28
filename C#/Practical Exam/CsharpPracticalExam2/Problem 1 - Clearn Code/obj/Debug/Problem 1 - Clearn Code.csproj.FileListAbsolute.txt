@@ -1,0 +1,6 @@
+C:\Users\fatal_000\Google Drive\Telerik\C# Practical Exam\CsharpPracticalExam2\Problem 1 - Clearn Code\bin\Debug\Problem 1 - Clearn Code.exe.config
+C:\Users\fatal_000\Google Drive\Telerik\C# Practical Exam\CsharpPracticalExam2\Problem 1 - Clearn Code\bin\Debug\Problem 1 - Clearn Code.exe
+C:\Users\fatal_000\Google Drive\Telerik\C# Practical Exam\CsharpPracticalExam2\Problem 1 - Clearn Code\bin\Debug\Problem 1 - Clearn Code.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C# Practical Exam\CsharpPracticalExam2\Problem 1 - Clearn Code\obj\Debug\Problem 1 - Clearn Code.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Google Drive\Telerik\C# Practical Exam\CsharpPracticalExam2\Problem 1 - Clearn Code\obj\Debug\Problem 1 - Clearn Code.exe
+C:\Users\fatal_000\Google Drive\Telerik\C# Practical Exam\CsharpPracticalExam2\Problem 1 - Clearn Code\obj\Debug\Problem 1 - Clearn Code.pdb

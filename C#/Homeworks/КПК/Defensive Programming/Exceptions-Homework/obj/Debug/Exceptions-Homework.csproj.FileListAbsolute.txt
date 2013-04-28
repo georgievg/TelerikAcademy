@@ -1,0 +1,5 @@
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Defensive Programming\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Defensive Programming\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Defensive Programming\Exceptions-Homework\obj\Debug\Exceptions-Homework.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Defensive Programming\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Defensive Programming\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb

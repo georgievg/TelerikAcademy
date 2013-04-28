@@ -1,0 +1,5 @@
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.pdb
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.csprojResolveAssemblyReference.cache
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb

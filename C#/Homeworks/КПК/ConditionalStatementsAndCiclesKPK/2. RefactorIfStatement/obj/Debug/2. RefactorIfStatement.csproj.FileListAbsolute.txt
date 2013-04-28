@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\2. RefactorIfStatement\obj\Debug\2. RefactorIfStatement.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\2. RefactorIfStatement\bin\Debug\_2.RefactorIfStatement.exe.config
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\2. RefactorIfStatement\bin\Debug\_2.RefactorIfStatement.exe
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\2. RefactorIfStatement\bin\Debug\_2.RefactorIfStatement.pdb
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\2. RefactorIfStatement\bin\Debug\ConditionalStatementsAndCiclesKPK.exe
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\2. RefactorIfStatement\bin\Debug\ConditionalStatementsAndCiclesKPK.pdb
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\2. RefactorIfStatement\obj\Debug\_2.RefactorIfStatement.exe
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\2. RefactorIfStatement\obj\Debug\_2.RefactorIfStatement.pdb

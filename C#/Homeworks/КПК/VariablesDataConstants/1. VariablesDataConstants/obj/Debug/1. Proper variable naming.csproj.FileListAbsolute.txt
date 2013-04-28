@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\VariablesDataConstants\VariablesDataConstants\bin\Debug\VariablesDataConstants.exe.config
+C:\Users\student\Desktop\VariablesDataConstants\VariablesDataConstants\bin\Debug\VariablesDataConstants.exe
+C:\Users\student\Desktop\VariablesDataConstants\VariablesDataConstants\bin\Debug\VariablesDataConstants.pdb
+C:\Users\student\Desktop\VariablesDataConstants\VariablesDataConstants\obj\Debug\1. Proper variable naming.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\VariablesDataConstants\VariablesDataConstants\obj\Debug\VariablesDataConstants.exe
+C:\Users\student\Desktop\VariablesDataConstants\VariablesDataConstants\obj\Debug\VariablesDataConstants.pdb

@@ -1,0 +1,271 @@
+using System;
+ 
+class ShipDamage
+{
+    static void Main()
+    {
+        int Sx1 = int.Parse(Console.ReadLine());
+        int Sy1 = int.Parse(Console.ReadLine());
+        int Sx2 = int.Parse(Console.ReadLine());
+        int Sy2 = int.Parse(Console.ReadLine());
+        int H = int.Parse(Console.ReadLine());
+        int Cx1 = int.Parse(Console.ReadLine());
+        int Cy1 = int.Parse(Console.ReadLine());
+        int Cx2 = int.Parse(Console.ReadLine());
+        int Cy2 = int.Parse(Console.ReadLine());
+        int Cx3 = int.Parse(Console.ReadLine());
+        int Cy3 = int.Parse(Console.ReadLine());
+ 
+        int rectangleTop = 0, rectangleBottom = 0, rectangleRight = 0, rectangleLeft = 0;
+        if (Sy1 > Sy2)
+        {
+            rectangleTop = Sy1;
+            rectangleBottom = Sy2;
+        }
+        if (Sy2 > Sy1)
+        {
+            rectangleTop = Sy2;
+            rectangleBottom = Sy1;
+        }
+        if (Sx1 > Sx2)
+        {
+            rectangleRight = Sx1;
+            rectangleLeft = Sx2;
+        }
+        if (Sx2 > Sx1)
+        {
+            rectangleRight = Sx2;
+            rectangleLeft = Sx1;
+        }
+ 
+ 
+        int boom1, boom2, boom3;
+        //Ship is above H
+        boom1 = 2 * H - Cy1;
+        boom2 = 2 * H - Cy2;
+        boom3 = 2 * H - Cy3;
+ 
+        int damage = 0;
+ 
+        //Corners
+        if ((boom1 == rectangleBottom && Cx1 == rectangleRight) || (boom1 == rectangleTop && Cx1 == rectangleRight) || (boom1 == rectangleTop && Cx1 == rectangleLeft) || (boom1 == rectangleBottom && Cx1 == rectangleLeft))
+        {
+            damage += 25;
+        }
+ 
+        if ((boom2 == rectangleBottom && Cx2 == rectangleRight) || (boom2 == rectangleTop && Cx2 == rectangleRight) || (boom2 == rectangleTop && Cx2 == rectangleLeft) || (boom2 == rectangleBottom && Cx2 == rectangleLeft))
+        {
+            damage += 25;
+        }
+ 
+        if ((boom3 == rectangleBottom && Cx3 == rectangleRight) || (boom3 == rectangleTop && Cx3 == rectangleRight) || (boom3 == rectangleTop && Cx3 == rectangleLeft) || (boom3 == rectangleBottom && Cx3 == rectangleLeft))
+        {
+            damage += 25;
+        }
+ 
+        //Sides
+        if ((boom1 == rectangleBottom && Cx1 > rectangleLeft && Cx1 < rectangleRight) || (boom1 == rectangleTop && Cx1 > rectangleLeft && Cx1 < rectangleRight) || (Cx1 == rectangleLeft && boom1 > rectangleBottom && boom1 < rectangleTop) || (Cx1 == rectangleRight && boom1 > rectangleBottom && boom1 < rectangleTop))
+        {
+            damage += 50;
+        }
+ 
+        if ((boom2 == rectangleBottom && Cx2 > rectangleLeft && Cx2 < rectangleRight) || (boom2 == rectangleTop && Cx2 > rectangleLeft && Cx2 < rectangleRight) || (Cx2 == rectangleLeft && boom2 > rectangleBottom && boom2 < rectangleTop) || (Cx2 == rectangleRight && boom2 > rectangleBottom && boom2 < rectangleTop))
+        {
+            damage += 50;
+        }
+ 
+        if ((boom3 == rectangleBottom && Cx3 > rectangleLeft && Cx3 < rectangleRight) || (boom3 == rectangleTop && Cx3 > rectangleLeft && Cx3 < rectangleRight) || (Cx3 == rectangleLeft && boom3 > rectangleBottom && boom3 < rectangleTop) || (Cx3 == rectangleRight && boom3 > rectangleBottom && boom3 < rectangleTop))
+        {
+            damage += 50;
+        }
+ 
+        //inside
+        if (boom1 < rectangleTop && boom1 > rectangleBottom && Cx1 > rectangleLeft && Cx1 < rectangleRight)
+        {
+            damage += 100;
+        }
+ 
+        if (boom2 < rectangleTop && boom2 > rectangleBottom && Cx2 > rectangleLeft && Cx2 < rectangleRight)
+        {
+            damage += 100;
+        }
+ 
+        if (boom3 < rectangleTop && boom3 > rectangleBottom && Cx3 > rectangleLeft && Cx3 < rectangleRight)
+        {
+            damage += 100;
+        }
+ 
+        Console.WriteLine(damage + "%");
+    }
+}
+
+using System;
+using System.Numerics;
+ 
+class Tribonacci
+{
+    static void Main()
+    {
+        BigInteger firstNumber = BigInteger.Parse(Console.ReadLine());
+        BigInteger secondNumber = BigInteger.Parse(Console.ReadLine());
+        BigInteger thirdNumber = BigInteger.Parse(Console.ReadLine());
+        int N = int.Parse(Console.ReadLine());
+        BigInteger[] tribonacci = new BigInteger[N];
+        tribonacci[0] = firstNumber;
+        tribonacci[1] = secondNumber;
+        tribonacci[2] = thirdNumber;
+        for (int i = 3; i < N; i++)
+        {
+            tribonacci[i] = tribonacci[i - 1] + tribonacci[i - 2] + tribonacci[i - 3];
+        }
+        Console.WriteLine(tribonacci[N-1]);
+    }
+}
+
+using System;
+ 
+class FirTree
+{
+    static void Main()
+    {
+        int N = int.Parse(Console.ReadLine());
+        for (int i = 1; i <= N; i++)
+        {
+            if (i < N)
+            {
+                for (int j = N - 1; j > 0; j--)
+                {
+                    if (i >= j)
+                    {
+                        Console.Write("*");
+                    }
+                    else
+                    {
+                        Console.Write(".");
+                    }
+                }
+ 
+                for (int k = 1; k < N - 1; k++)
+                {
+                    if (i > k)
+                    {
+                        Console.Write("*");
+                    }
+                    else
+                    {
+                        Console.Write(".");
+                    }
+                }
+            }
+            else
+            {
+                for (int j = 1; j <= N*2 - 3; j++)
+                {
+                    if (j == N - 1)
+                    {
+                        Console.Write("*");
+                    }
+                    else
+                    {
+                        Console.Write(".");
+                    }
+                }
+            }
+            Console.WriteLine();
+        }
+    }
+}using System;
+ 
+class WeAllLoveBits
+{
+    static void Main()
+    {
+        int N = int.Parse(Console.ReadLine());
+         
+ 
+        for (int i = 0; i < N; i++)
+        {
+            int P = int.Parse(Console.ReadLine());
+            int Pnew = 0;
+            while (P > 0)
+            {
+                Pnew <<= 1;
+                if ((P & 1) == 1)
+                {
+                    Pnew |= 1;
+                }
+                P >>= 1;
+            }
+ 
+            Console.WriteLine(Pnew);
+        }
+         
+    }
+}using System;
+ 
+class Pillars
+{
+    static void Main()
+    {
+        int[,] grid = new int[8, 8];
+        int number;
+        string readStr;
+        for (int i = 0; i < grid.GetLength(0); i++)
+        {
+            readStr = Console.ReadLine();
+            number = int.Parse(readStr);
+            for (int j = grid.GetLength(1) - 1; j >= 0; j--)
+            {
+                grid[i, j] = number % 2;
+                number /= 2;
+            }
+        }
+ 
+        int leftFullCells = 0, rightFullCells = 0, pillarNumber = 20, currentCells = 0;
+        for (int i = 0; i <= 7; i++) //pillars
+        {
+            leftFullCells = 0;
+            rightFullCells = 0;
+            //left side
+            for (int j = 0; j <= 7; j++)//redove
+            {
+                for (int k = i + 1; k <= 7; k++)//koloni
+                {
+                    if (grid[j, k] == 1)
+                    {
+                        leftFullCells++;
+                    }
+                }
+            }
+ 
+            //right side
+            for (int j = 0; j <= 7; j++)
+            {
+                for (int k = 0; k <= i - 1; k++)
+                {
+                    if (grid[j, k] == 1)
+                    {
+                        rightFullCells++;
+                    }
+                }
+            }
+ 
+ 
+            if (leftFullCells == rightFullCells & i < pillarNumber)
+            {
+                pillarNumber = i;
+                currentCells = rightFullCells;
+            }
+        }
+ 
+        if (pillarNumber < 20)
+        {
+            Console.WriteLine(7 - pillarNumber);
+            Console.WriteLine(currentCells);
+        }
+        else
+        {
+            Console.WriteLine("No");
+        }
+    }
+}

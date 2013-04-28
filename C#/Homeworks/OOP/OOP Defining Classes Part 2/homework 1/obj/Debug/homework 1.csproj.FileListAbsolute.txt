@@ -1,0 +1,6 @@
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Defining Classes Part 2\homework 1\bin\Debug\homework 1.exe.config
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Defining Classes Part 2\homework 1\bin\Debug\homework 1.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Defining Classes Part 2\homework 1\bin\Debug\homework 1.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Defining Classes Part 2\homework 1\obj\Debug\homework 1.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Defining Classes Part 2\homework 1\obj\Debug\homework 1.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Defining Classes Part 2\homework 1\obj\Debug\homework 1.pdb

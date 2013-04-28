@@ -1,0 +1,57 @@
+body,div,ul,li{
+	margin:0;
+	padding:0;
+}
+@mixin Gradient(){
+	background: rgb(238,238,238);
+	background: -moz-linear-gradient(left,  rgba(238,238,238,1) 0%, rgba(204,204,204,1) 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(238,238,238,1)), color-stop(100%,rgba(204,204,204,1)));
+	background: -webkit-linear-gradient(left,  rgba(238,238,238,1) 0%,rgba(204,204,204,1) 100%);
+	background: -o-linear-gradient(left,  rgba(238,238,238,1) 0%,rgba(204,204,204,1) 100%);
+	background: -ms-linear-gradient(left,  rgba(238,238,238,1) 0%,rgba(204,204,204,1) 100%);
+	background: linear-gradient(to right,  rgba(238,238,238,1) 0%,rgba(204,204,204,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=1 );
+
+}
+
+div#mainWrapper{
+	margin-left:20px;
+	margin-top:20px;
+	width:500px;	
+	font-size:1.2em;
+	font-family:Arial;
+	padding-left:20px;	
+	border-radius:5px;
+	@include Gradient();	
+	ul.accordionMain{		
+		list-style-type:none;
+		padding:5px;
+		margin-bottom:5px;
+		position:relative;
+		& > li{
+			padding:10px;
+			border:1px solid #AAAAAA;
+			border-radius:10px;
+			margin-right:10px;
+			background-color:#a0d8ef;
+		}
+		& > li > ul{
+			height:0px;
+			overflow:hidden;
+			margin-top:10px;			
+			&>li{
+				padding:10px;
+			}
+		}
+		&>button#X{
+			position:absolute;
+			margin-top:13px;
+			margin-left:270px;
+			background-color:red;
+			border-radius:5px;
+			border:1px solid black;
+		}
+
+	}
+
+}

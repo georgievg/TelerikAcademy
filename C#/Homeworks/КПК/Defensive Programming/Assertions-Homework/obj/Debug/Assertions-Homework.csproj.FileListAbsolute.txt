@@ -1,0 +1,5 @@
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Defensive Programming\Assertions-Homework\obj\Debug\Assertions-Homework.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Defensive Programming\Assertions-Homework\bin\Debug\Assertions-Homework.exe
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Defensive Programming\Assertions-Homework\bin\Debug\Assertions-Homework.pdb
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Defensive Programming\Assertions-Homework\obj\Debug\Assertions-Homework.exe
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Defensive Programming\Assertions-Homework\obj\Debug\Assertions-Homework.pdb

@@ -1,0 +1,6 @@
+c:\users\fatal_000\documents\visual studio 2012\Projects\OOP Principles 1\HW2 - Abstract Human\bin\Debug\HW2 - Abstract Human.exe.config
+c:\users\fatal_000\documents\visual studio 2012\Projects\OOP Principles 1\HW2 - Abstract Human\bin\Debug\HW2 - Abstract Human.exe
+c:\users\fatal_000\documents\visual studio 2012\Projects\OOP Principles 1\HW2 - Abstract Human\bin\Debug\HW2 - Abstract Human.pdb
+c:\users\fatal_000\documents\visual studio 2012\Projects\OOP Principles 1\HW2 - Abstract Human\obj\Debug\HW2 - Abstract Human.csprojResolveAssemblyReference.cache
+c:\users\fatal_000\documents\visual studio 2012\Projects\OOP Principles 1\HW2 - Abstract Human\obj\Debug\HW2 - Abstract Human.exe
+c:\users\fatal_000\documents\visual studio 2012\Projects\OOP Principles 1\HW2 - Abstract Human\obj\Debug\HW2 - Abstract Human.pdb

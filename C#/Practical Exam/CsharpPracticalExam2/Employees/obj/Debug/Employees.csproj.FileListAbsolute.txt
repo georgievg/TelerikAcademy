@@ -1,0 +1,6 @@
+C:\Users\fatal_000\Google Drive\Telerik\C# Practical Exam\CsharpPracticalExam2\Employees\bin\Debug\Employees.exe.config
+C:\Users\fatal_000\Google Drive\Telerik\C# Practical Exam\CsharpPracticalExam2\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Google Drive\Telerik\C# Practical Exam\CsharpPracticalExam2\Employees\bin\Debug\Employees.exe
+C:\Users\fatal_000\Google Drive\Telerik\C# Practical Exam\CsharpPracticalExam2\Employees\bin\Debug\Employees.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C# Practical Exam\CsharpPracticalExam2\Employees\obj\Debug\Employees.exe
+C:\Users\fatal_000\Google Drive\Telerik\C# Practical Exam\CsharpPracticalExam2\Employees\obj\Debug\Employees.pdb

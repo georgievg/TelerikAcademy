@@ -1,0 +1,6 @@
+Point X = 4 
+Point Y = 7 
+Point Z = 4
+Point X = 5 
+Point Y = 6 
+Point Z = 7

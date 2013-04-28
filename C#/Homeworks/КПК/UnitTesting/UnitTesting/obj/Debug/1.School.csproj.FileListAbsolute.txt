@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\1.UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe.config
+C:\Users\student\Desktop\1.UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe
+C:\Users\student\Desktop\1.UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\student\Desktop\1.UnitTesting\UnitTesting\obj\Debug\UnitTesting.exe
+C:\Users\student\Desktop\1.UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb
+C:\Users\student\Desktop\1.UnitTesting\UnitTesting\obj\Debug\1.School.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Desktop\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe.config
+C:\Users\fatal_000\Desktop\UnitTesting\UnitTesting\obj\Debug\UnitTesting.exe
+C:\Users\fatal_000\Desktop\UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb
+C:\Users\fatal_000\Desktop\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe
+C:\Users\fatal_000\Desktop\UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\fatal_000\Desktop\UnitTesting\UnitTesting\obj\Debug\1.School.csprojResolveAssemblyReference.cache

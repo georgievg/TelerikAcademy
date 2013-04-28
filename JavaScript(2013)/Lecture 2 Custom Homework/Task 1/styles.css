@@ -1,0 +1,44 @@
+body, div, ul, li {
+  margin: 0;
+  padding: 0; }
+
+div#mainWrapper {
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 500px;
+  font-size: 1.2em;
+  font-family: Arial;
+  padding-left: 20px;
+  border-radius: 5px;
+  background: #eeeeee;
+  background: -moz-linear-gradient(left, #eeeeee 0%, #cccccc 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #eeeeee), color-stop(100%, #cccccc));
+  background: -webkit-linear-gradient(left, #eeeeee 0%, #cccccc 100%);
+  background: -o-linear-gradient(left, #eeeeee 0%, #cccccc 100%);
+  background: -ms-linear-gradient(left, #eeeeee 0%, #cccccc 100%);
+  background: linear-gradient(to right, #eeeeee 0%, #cccccc 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=1 ); }
+  div#mainWrapper ul.accordionMain {
+    list-style-type: none;
+    padding: 5px;
+    margin-bottom: 5px;
+    position: relative; }
+    div#mainWrapper ul.accordionMain > li {
+      padding: 10px;
+      border: 1px solid #aaaaaa;
+      border-radius: 10px;
+      margin-right: 10px;
+      background-color: #a0d8ef; }
+    div#mainWrapper ul.accordionMain > li > ul {
+      height: 0px;
+      overflow: hidden;
+      margin-top: 10px; }
+      div#mainWrapper ul.accordionMain > li > ul > li {
+        padding: 10px; }
+    div#mainWrapper ul.accordionMain > button#X {
+      position: absolute;
+      margin-top: 13px;
+      margin-left: 270px;
+      background-color: red;
+      border-radius: 5px;
+      border: 1px solid black; }

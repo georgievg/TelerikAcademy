@@ -1,0 +1,5 @@
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\OddNumber\bin\Debug\OddNumber.exe
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\OddNumber\bin\Debug\OddNumber.pdb
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\OddNumber\obj\Debug\OddNumber.pdb

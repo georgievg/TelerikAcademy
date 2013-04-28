@@ -1,0 +1,5 @@
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\3.CustomExeption\bin\Debug\3.CustomExeption.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\3.CustomExeption\bin\Debug\3.CustomExeption.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\3.CustomExeption\obj\Debug\3.CustomExeption.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\3.CustomExeption\obj\Debug\3.CustomExeption.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\3.CustomExeption\obj\Debug\3.CustomExeption.csprojResolveAssemblyReference.cache

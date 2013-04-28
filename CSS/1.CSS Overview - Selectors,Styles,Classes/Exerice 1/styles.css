@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:#666;
+	font:Tahoma, Geneva, sans-serif;
+}
+h2
+{
+	color:#999;
+	font-weight:lighter;
+}
+
+td
+{
+	width:180px;
+	padding:1px;
+	height:10px;
+	
+	
+}
+.white
+{
+	color:white;
+}
+.yellow
+{
+	color:#FF9
+}
+#name
+{
+	padding-top:1px;
+}
+.red
+{
+	color:red;
+	font-weight:bold;	
+	
+}
+a
+{
+	color:yellow;
+	text-decoration:none;
+}
+.gray
+{
+	color:#999999
+}
+.orange
+{
+	color:orange;
+	font-weight:bold;
+}
+#dot
+{
+	background-color:green;
+	width:20px;
+	height:20px;
+	display:inline;
+	
+}

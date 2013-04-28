@@ -1,0 +1,36 @@
+.btn{
+	width:190px;
+	height:47px;
+	background:url(../imgs/btnTile.png) repeat-x;
+	border-radius:21px;
+	border:none;
+	position:relative;
+	box-shadow: 5px 5px 5px rgba(55, 55, 55, 0.3);
+	display:block;
+	margin:10px;
+	
+}
+a.btn{
+	line-height:47px;
+	text-align:center;
+	color:#000;
+}
+.left{
+	content:"";
+	background: url(../imgs/lefTtile.png) no-repeat;
+	z-index:9999;
+	height:100%;
+	width:22px;
+	position:absolute;
+	left:0;
+	top:0;
+}
+.right{
+	content:"";
+	background: url(../imgs/rightTile.png) no-repeat;
+	height:100%;
+	width: 22px;
+	position: absolute;
+	right:0;
+	top:0;
+}

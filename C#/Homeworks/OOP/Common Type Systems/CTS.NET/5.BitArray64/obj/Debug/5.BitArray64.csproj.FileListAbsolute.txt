@@ -1,0 +1,5 @@
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\5.BitArray64\bin\Debug\5.BitArray64.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\5.BitArray64\bin\Debug\5.BitArray64.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\5.BitArray64\obj\Debug\5.BitArray64.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\5.BitArray64\obj\Debug\5.BitArray64.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\5.BitArray64\obj\Debug\5.BitArray64.csprojResolveAssemblyReference.cache

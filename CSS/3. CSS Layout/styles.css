@@ -1,0 +1,80 @@
+﻿body
+{
+    background-color:gray;
+}
+a
+{
+    text-decoration:none;
+}
+.container
+{
+    background-color:#FFFFFF;
+    margin-left:auto;
+    margin-right:auto;
+    width:65%;
+}
+nav
+{
+   
+    margin-left:180px;
+    margin-right:auto;
+}
+ul li
+{
+    list-style-type:none;
+    display:inline-block;
+    margin:5px;
+    margin-bottom:0;
+}
+    ul li a
+    {
+        color:#00AEF0;
+        font-weight:bold;
+        text-decoration:underline;
+    }
+        ul li:hover
+        {
+            color:black;
+            
+        }
+.line
+{
+    border:1px solid black;
+    width:95%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:10px;
+    
+}
+.innercontainer
+{
+    border:2px solid black;
+    width:60%;
+}
+.PC
+{
+    border:2px solid black;
+    margin:8px;
+    display:inline-block;
+    width:45%;
+    height:130px;
+}
+    .params
+    {
+        margin-top:60px;
+        display:inline-block;
+        float:right;
+        
+    }
+    .price
+    {
+        margin-top:60px;
+        margin-left:20px;
+    }
+form
+{
+    display:inline-block;    
+}
+
+
+

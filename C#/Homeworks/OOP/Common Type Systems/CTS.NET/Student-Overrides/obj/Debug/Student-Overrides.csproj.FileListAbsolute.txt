@@ -1,0 +1,5 @@
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\Student-Overrides\bin\Debug\Student-Overrides.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\Student-Overrides\bin\Debug\Student-Overrides.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\Student-Overrides\obj\Debug\Student-Overrides.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\Student-Overrides\obj\Debug\Student-Overrides.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\Common Type Systems\CTS.NET\Student-Overrides\obj\Debug\Student-Overrides.pdb

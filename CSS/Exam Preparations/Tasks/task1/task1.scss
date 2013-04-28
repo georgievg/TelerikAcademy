@@ -1,0 +1,89 @@
+body,div,header,nav,ul,li,a{
+	margin:0;
+	padding:0;
+}
+@mixin Gradient($startColor,$endColor){
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,$startColor), color-stop(100%,$endColor));
+	background: -webkit-linear-gradient(top,  $startColor 0%,$endColor 100%);
+	background: linear-gradient(to bottom,  $startColor 0%,$endColor 100%);
+
+}
+body{
+	font-family:Arial;
+	font-size: 16px;
+  	a{
+  		text-decoration: none;
+  		color:black;
+  		font-size:2em;
+  	}
+	div#wrapper{
+		header{
+			width:960px;
+			height: 200px;
+			@include Gradient(#002D44,#77D0FE);
+			nav > ul{
+				
+				padding-top:50px;
+				& > li{
+					padding:5px;
+					margin-right:5px;
+					& > ul > li{
+						margin-right:15px;
+					}
+				}
+			}
+			nav{
+				position:relative;
+				ul{
+					margin-left:50px;
+					& > li:hover{
+						background-color: #115B81;
+						border-radius: 15px;
+					}
+					& > li{
+						display:inline-block;
+						& > ul{
+							display:none;
+						}
+					}
+					li.selected{
+						@include Gradient(#184155,#27566D);
+						border-radius:15px;
+
+						& > ul{
+							display:inline-block;
+							position: absolute;
+							& li{
+								padding:5px;
+							}
+							left:0;
+
+						}
+					}
+					li.selected ul li:hover{
+						& > ul{
+							display:block;
+							position: absolute;	
+							@include Gradient(#FDFDFF,#77D1FF);	
+							padding:10px;				
+							margin-left:10px;
+							border-radius:15px;
+							& li{								
+								display:block;								
+								border-bottom:1px solid black;
+								&:hover{
+									background-color:#45819F;
+								}
+								&:last-of-type{
+									border-bottom: none;
+								}
+							}
+
+						}
+					}
+
+				}
+			}
+		}
+	}
+}

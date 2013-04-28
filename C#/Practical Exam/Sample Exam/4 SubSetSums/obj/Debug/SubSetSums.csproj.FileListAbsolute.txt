@@ -1,0 +1,5 @@
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\SubSetSums\bin\Debug\SubSetSums.exe.config
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\SubSetSums\bin\Debug\SubSetSums.exe
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\SubSetSums\bin\Debug\SubSetSums.pdb
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\SubSetSums\obj\Debug\SubSetSums.exe
+c:\users\fatal\documents\visual studio 2012\Projects\CartesianCoordinateSystem\SubSetSums\obj\Debug\SubSetSums.pdb

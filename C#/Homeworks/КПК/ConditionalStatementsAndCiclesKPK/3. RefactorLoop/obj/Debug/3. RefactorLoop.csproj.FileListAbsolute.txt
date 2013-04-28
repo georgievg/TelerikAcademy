@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\3. RefactorLoop\bin\Debug\_3.RefactorLoop.exe.config
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\3. RefactorLoop\bin\Debug\_3.RefactorLoop.exe
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\3. RefactorLoop\bin\Debug\_3.RefactorLoop.pdb
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\3. RefactorLoop\obj\Debug\_3.RefactorLoop.exe
+C:\Users\student\Desktop\homework\ConditionalStatementsAndCiclesKPK\3. RefactorLoop\obj\Debug\_3.RefactorLoop.pdb

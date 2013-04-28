@@ -1,0 +1,5 @@
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\2.Bank\bin\Debug\2.Bank.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\2.Bank\bin\Debug\2.Bank.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\2.Bank\obj\Debug\2.Bank.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\2.Bank\obj\Debug\2.Bank.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\2.Bank\obj\Debug\2.Bank.pdb

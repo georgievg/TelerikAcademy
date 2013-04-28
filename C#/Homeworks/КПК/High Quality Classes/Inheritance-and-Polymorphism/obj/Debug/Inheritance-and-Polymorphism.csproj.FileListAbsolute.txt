@@ -1,0 +1,4 @@
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\High Quality Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb

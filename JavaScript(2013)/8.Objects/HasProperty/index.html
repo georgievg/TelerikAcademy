@@ -1,0 +1,17 @@
+<script>	
+
+/*-----  standart way  ------*/
+if (Array.hasOwnProperty('length')) {
+    console.log('Array has length');
+}
+/*-----  standart way  ------*/
+
+/*-----  my way  ------*/
+Array.prototype.hasProperty = function (prop) {
+	return this[prop] !== undefined;
+} 
+var arr = [];
+console.log(arr.hasProperty('length'));
+/*-----  my way  ------*/
+
+</script>

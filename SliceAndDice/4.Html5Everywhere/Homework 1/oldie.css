@@ -1,0 +1,6 @@
+body div#wrapper section {
+	 width:auto;
+}
+#wrapper aside{
+	background: #fff url(gradient.png) repeat-x !important;
+}

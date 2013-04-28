@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Numbers from 1 to N</title>
+<link rel="stylesheet" href="styles/styles.css">
+
+<!--Write a script that prints all the numbers from 1 to N-->
+<script>
+window.onload = function(){
+
+document.getElementById("enter").onclick = function() {
+//problem starts here	
+var n = document.getElementById("input1").value;
+var outTxt = "";	
+for(var i=1; i<=n; i++){
+	outTxt += i+" ";
+	}
+	if(outTxt==""){
+		outTxt = "Incorrect input!";
+	}
+//ends here	
+	document.getElementById("output").innerHTML = outTxt;
+}
+}
+</script>
+</head>
+<body>
+<div>
+<textarea id="input1" placeholder="Enter a number bigger than one."></textarea><br>
+<textarea id="output" placeholder="output" disabled></textarea><br>
+<input id="enter" type="submit" value="EXECUTE">
+</div>
+</body>
+</html>

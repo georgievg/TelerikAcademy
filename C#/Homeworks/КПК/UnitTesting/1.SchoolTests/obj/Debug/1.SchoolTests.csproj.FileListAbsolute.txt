@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\1.UnitTesting\1.SchoolTests\obj\Debug\1.SchoolTests.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\1.UnitTesting\1.SchoolTests\bin\Debug\1.SchoolTests.dll
+C:\Users\student\Desktop\1.UnitTesting\1.SchoolTests\bin\Debug\1.SchoolTests.pdb
+C:\Users\student\Desktop\1.UnitTesting\1.SchoolTests\bin\Debug\UnitTesting.exe
+C:\Users\student\Desktop\1.UnitTesting\1.SchoolTests\bin\Debug\UnitTesting.pdb
+C:\Users\student\Desktop\1.UnitTesting\1.SchoolTests\obj\Debug\1.SchoolTests.dll
+C:\Users\student\Desktop\1.UnitTesting\1.SchoolTests\obj\Debug\1.SchoolTests.pdb
+C:\Users\fatal_000\Desktop\UnitTesting\1.SchoolTests\bin\Debug\1.SchoolTests.dll
+C:\Users\fatal_000\Desktop\UnitTesting\1.SchoolTests\bin\Debug\1.SchoolTests.pdb
+C:\Users\fatal_000\Desktop\UnitTesting\1.SchoolTests\bin\Debug\UnitTesting.exe
+C:\Users\fatal_000\Desktop\UnitTesting\1.SchoolTests\bin\Debug\UnitTesting.pdb
+C:\Users\fatal_000\Desktop\UnitTesting\1.SchoolTests\obj\Debug\1.SchoolTests.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Desktop\UnitTesting\1.SchoolTests\obj\Debug\1.SchoolTests.dll
+C:\Users\fatal_000\Desktop\UnitTesting\1.SchoolTests\obj\Debug\1.SchoolTests.pdb

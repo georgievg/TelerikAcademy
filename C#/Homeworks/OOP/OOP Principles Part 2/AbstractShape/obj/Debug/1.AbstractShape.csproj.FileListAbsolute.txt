@@ -1,0 +1,3 @@
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\AbstractShape\bin\Debug\AbstractShape.exe.config
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\AbstractShape\obj\Debug\AbstractShape.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\Homeworks\OOP Principles Part 2\AbstractShape\obj\Debug\AbstractShape.pdb

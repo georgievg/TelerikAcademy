@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+table
+{
+    border:1px;  
+    border-color:#CCC;
+	height:30px;
+	width:400px;
+	border-style:outset;
+	border-collapse:collapse;
+	
+    
+}
+
+th
+{
+	background-color:#55b806;
+    text-align:left;
+    font-weight: normal;
+    color:#FFF;
+    border:1px;
+    border-style:solid;
+    border-color:#CCC;
+    padding: 5px;
+    line-height:30px;
+}
+.light
+{
+	background-color:#FFC;
+}
+.dark
+{
+	background-color:#C96;
+}
+	

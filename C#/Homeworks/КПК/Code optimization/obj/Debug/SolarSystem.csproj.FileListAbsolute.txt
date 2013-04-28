@@ -1,0 +1,12 @@
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Code optimization\bin\Debug\SolarSystem.exe
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Code optimization\bin\Debug\SolarSystem.pdb
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Code optimization\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Code optimization\obj\Debug\MainWindow.g.cs
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Code optimization\obj\Debug\App.g.cs
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Code optimization\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Code optimization\obj\Debug\SolarSystem_MarkupCompile.cache
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Code optimization\obj\Debug\SolarSystem_MarkupCompile.lref
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Code optimization\obj\Debug\MainWindow.baml
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Code optimization\obj\Debug\SolarSystem.g.resources
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Code optimization\obj\Debug\SolarSystem.exe
+C:\Users\fatal_000\Dropbox\Telerik\C#\Homeworks\КПК\Code optimization\obj\Debug\SolarSystem.pdb

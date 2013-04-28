@@ -1,0 +1,61 @@
+﻿body,
+div,
+a,
+form,
+fieldset,
+legend,
+input,
+label {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 1024px;
+  font-size: 16px;
+  font-family: Verdana, Geneva, 'DejaVu Sans', sans-serif;
+}
+body #wrapper {
+  margin-left: 60px;
+  margin-top: 10px;
+}
+body #wrapper a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.2em;
+}
+body #wrapper form {
+  width: 450px;
+  background: #555555;
+  background: -moz-linear-gradient(top, #ffffff 10%, #555555 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #ffffff), color-stop(100%, #555555));
+  background: -webkit-linear-gradient(top, #ffffff 10%, #555555 100%);
+  background: -o-linear-gradient(top, #ffffff 10%, #555555 100%);
+  background: -ms-linear-gradient(top, #ffffff 10%, #555555 100%);
+  background: linear-gradient(to bottom, #ffffff 10%, #555555 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#555555', GradientType=0);
+}
+body #wrapper form fieldset {
+  padding-right: 75px;
+  text-align: right;
+  display: block;
+  margin: 0 auto;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+body #wrapper form fieldset legend {
+  padding: 0 10px;
+  font-size: 1.7em;
+  font-weight: bold;
+  font-style: italic;
+}
+body #wrapper form fieldset label {
+  display: inline-block;
+  margin-top: 15px;
+  font-weight: bold;
+}
+body #wrapper .current {
+  font-weight: bold;
+}
+body #wrapper .invisible {
+  display: none;
+}

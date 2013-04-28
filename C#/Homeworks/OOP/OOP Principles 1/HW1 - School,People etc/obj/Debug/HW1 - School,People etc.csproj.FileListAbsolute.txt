@@ -1,0 +1,6 @@
+c:\users\fatal_000\documents\visual studio 2012\Projects\OOP Principles 1\HW1 - School,People etc\bin\Debug\HW1 - School,People etc.exe.config
+c:\users\fatal_000\documents\visual studio 2012\Projects\OOP Principles 1\HW1 - School,People etc\bin\Debug\HW1 - School,People etc.exe
+c:\users\fatal_000\documents\visual studio 2012\Projects\OOP Principles 1\HW1 - School,People etc\bin\Debug\HW1 - School,People etc.pdb
+c:\users\fatal_000\documents\visual studio 2012\Projects\OOP Principles 1\HW1 - School,People etc\obj\Debug\HW1 - School,People etc.csprojResolveAssemblyReference.cache
+c:\users\fatal_000\documents\visual studio 2012\Projects\OOP Principles 1\HW1 - School,People etc\obj\Debug\HW1 - School,People etc.exe
+c:\users\fatal_000\documents\visual studio 2012\Projects\OOP Principles 1\HW1 - School,People etc\obj\Debug\HW1 - School,People etc.pdb

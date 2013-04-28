@@ -1,0 +1,42 @@
+﻿body ul li{
+    background: url(sprites.png) no-repeat top left;
+    padding:20px;
+    font-family:Harrington,Arial,sans-serif;
+}
+ul {
+    list-style-type:none;
+}
+.spr-comment { background-position: 0 0; width: 16px; height: 16px; } 
+.spr-comment_add { background-position: 0 -66px; width: 16px; height: 16px; } 
+.spr-comment_delete { background-position: 0 -132px; width: 16px; height: 16px; } 
+.spr-comment_edit { background-position: 0 -198px; width: 16px; height: 16px; } 
+.spr-comments { background-position: 0 -264px; width: 16px; height: 16px; } 
+.spr-comments_add { background-position: 0 -330px; width: 16px; height: 16px; } 
+.spr-comments_delete { background-position: 0 -396px; width: 16px; height: 16px; } 
+.spr-folder { background-position: 0 -462px; width: 16px; height: 16px; } 
+.spr-folder_add { background-position: 0 -528px; width: 16px; height: 16px; } 
+.spr-folder_delete { background-position: 0 -594px; width: 16px; height: 16px; } 
+.spr-folder_edit { background-position: 0 -660px; width: 16px; height: 16px; } 
+.spr-group { background-position: 0 -726px; width: 16px; height: 16px; } 
+.spr-group_add { background-position: 0 -792px; width: 16px; height: 16px; } 
+.spr-group_delete { background-position: 0 -858px; width: 16px; height: 16px; } 
+.spr-group_edit { background-position: 0 -924px; width: 16px; height: 16px; } 
+.spr-page_white { background-position: 0 -990px; width: 16px; height: 16px; } 
+.spr-page_white_acrobat { background-position: 0 -1056px; width: 16px; height: 16px; } 
+.spr-page_white_actionscript { background-position: 0 -1122px; width: 16px; height: 16px; } 
+.spr-page_white_add { background-position: 0 -1188px; width: 16px; height: 16px; } 
+.spr-page_white_c { background-position: 0 -1254px; width: 16px; height: 16px; } 
+.spr-page_white_camera { background-position: 0 -1320px; width: 16px; height: 16px; } 
+.spr-page_white_cplusplus { background-position: 0 -1386px; width: 16px; height: 16px; } 
+.spr-page_white_csharp { background-position: 0 -1452px; width: 16px; height: 16px; } 
+.spr-page_white_cup { background-position: 0 -1518px; width: 16px; height: 16px; } 
+.spr-page_white_delete { background-position: 0 -1584px; width: 16px; height: 16px; } 
+.spr-page_white_edit { background-position: 0 -1650px; width: 16px; height: 16px; } 
+.spr-page_white_excel { background-position: 0 -1716px; width: 16px; height: 16px; } 
+.spr-page_white_php { background-position: 0 -1782px; width: 16px; height: 16px; } 
+.spr-page_white_powerpoint { background-position: 0 -1848px; width: 16px; height: 16px; } 
+.spr-page_white_ruby { background-position: 0 -1914px; width: 16px; height: 16px; } 
+.spr-user { background-position: -66px 0; width: 16px; height: 16px; } 
+.spr-user_add { background-position: -66px -66px; width: 16px; height: 16px; } 
+.spr-user_delete { background-position: -66px -132px; width: 16px; height: 16px; } 
+.spr-user_edit { background-position: -66px -198px; width: 16px; height: 16px; } 

@@ -1,0 +1,10 @@
+C:\Users\fatal_000\Dropbox\Telerik\JavaScript(2013)\Advanced Functions\AdvancedFunctions\AdvancedFunctions\bin\AdvancedFunctions.dll
+C:\Users\fatal_000\Dropbox\Telerik\JavaScript(2013)\Advanced Functions\AdvancedFunctions\AdvancedFunctions\bin\AdvancedFunctions.pdb
+C:\Users\fatal_000\Dropbox\Telerik\JavaScript(2013)\Advanced Functions\AdvancedFunctions\AdvancedFunctions\obj\Debug\AdvancedFunctions.csprojResolveAssemblyReference.cache
+C:\Users\fatal_000\Dropbox\Telerik\JavaScript(2013)\Advanced Functions\AdvancedFunctions\AdvancedFunctions\obj\Debug\AdvancedFunctions.dll
+C:\Users\fatal_000\Dropbox\Telerik\JavaScript(2013)\Advanced Functions\AdvancedFunctions\AdvancedFunctions\obj\Debug\AdvancedFunctions.pdb
+C:\Users\student\Desktop\Advanced Functions\AdvancedFunctions\AdvancedFunctions\bin\AdvancedFunctions.dll
+C:\Users\student\Desktop\Advanced Functions\AdvancedFunctions\AdvancedFunctions\bin\AdvancedFunctions.pdb
+C:\Users\student\Desktop\Advanced Functions\AdvancedFunctions\AdvancedFunctions\obj\Debug\AdvancedFunctions.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Advanced Functions\AdvancedFunctions\AdvancedFunctions\obj\Debug\AdvancedFunctions.dll
+C:\Users\student\Desktop\Advanced Functions\AdvancedFunctions\AdvancedFunctions\obj\Debug\AdvancedFunctions.pdb

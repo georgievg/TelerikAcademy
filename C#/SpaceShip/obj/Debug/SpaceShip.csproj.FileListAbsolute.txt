@@ -1,0 +1,5 @@
+C:\Users\fatal_000\Google Drive\Telerik\C#\WorkShop\SpaceShip\SpaceShip\bin\Debug\SpaceShip.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\WorkShop\SpaceShip\SpaceShip\bin\Debug\SpaceShip.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C#\WorkShop\SpaceShip\SpaceShip\obj\Debug\SpaceShip.exe
+C:\Users\fatal_000\Google Drive\Telerik\C#\WorkShop\SpaceShip\SpaceShip\obj\Debug\SpaceShip.pdb
+C:\Users\fatal_000\Google Drive\Telerik\C#\WorkShop\SpaceShip\SpaceShip\obj\Debug\SpaceShip.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\Trapezoid\bin\Debug\Trapezoid.exe
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\Trapezoid\bin\Debug\Trapezoid.pdb
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\Trapezoid\obj\Debug\Trapezoid.exe
+C:\Users\fatal\Documents\Visual Studio 2012\Projects\Telerik Software Academy 2011  2012\Trapezoid\obj\Debug\Trapezoid.pdb

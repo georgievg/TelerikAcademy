@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1 - School,People etc", "HW1 - School,People etc\HW1 - School,People etc.csproj", "{9DC8F600-433B-4705-A601-1DF1AD5FC760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2 - Abstract Human", "HW2 - Abstract Human\HW2 - Abstract Human.csproj", "{A4F671D2-9EF4-4A93-929A-B399ECD37577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3 - Animals", "HW3 - Animals\HW3 - Animals.csproj", "{FDECC637-9509-454A-94FD-B4297BDB79DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC8F600-433B-4705-A601-1DF1AD5FC760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC8F600-433B-4705-A601-1DF1AD5FC760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC8F600-433B-4705-A601-1DF1AD5FC760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC8F600-433B-4705-A601-1DF1AD5FC760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4F671D2-9EF4-4A93-929A-B399ECD37577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F671D2-9EF4-4A93-929A-B399ECD37577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F671D2-9EF4-4A93-929A-B399ECD37577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F671D2-9EF4-4A93-929A-B399ECD37577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDECC637-9509-454A-94FD-B4297BDB79DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDECC637-9509-454A-94FD-B4297BDB79DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDECC637-9509-454A-94FD-B4297BDB79DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDECC637-9509-454A-94FD-B4297BDB79DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

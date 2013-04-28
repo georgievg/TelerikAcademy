@@ -1,0 +1,1 @@
+Okay, znam che code coverage e 81%, no prosto e bezumie da go vdigam na 90% pri polojenie, che bez mocking shte e skapano. Pozdravi :)

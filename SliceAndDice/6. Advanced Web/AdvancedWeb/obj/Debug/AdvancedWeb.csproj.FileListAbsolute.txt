@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\homework\AdvancedWeb\AdvancedWeb\bin\AdvancedWeb.dll
+C:\Users\student\Desktop\homework\AdvancedWeb\AdvancedWeb\bin\AdvancedWeb.pdb
+C:\Users\student\Desktop\homework\AdvancedWeb\AdvancedWeb\obj\Debug\AdvancedWeb.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\homework\AdvancedWeb\AdvancedWeb\obj\Debug\AdvancedWeb.dll
+C:\Users\student\Desktop\homework\AdvancedWeb\AdvancedWeb\obj\Debug\AdvancedWeb.pdb

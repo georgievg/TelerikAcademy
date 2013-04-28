@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.form-radio label {
+  margin-left: 15px; }
+.form-radio input {
+  display: none; }
+
+.mainContainer {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto; }
+
+.pic-div {
+  width: 768px;
+  height: 1024px;
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto; }
+
+input[type="radio"]#image1:checked ~ .pic-div {
+  background: url(image1.jpg); }
+
+input[type="radio"]#image2:checked ~ .pic-div {
+  background: url(image2.jpg); }
+
+input[type="radio"]#image3:checked ~ .pic-div {
+  background: url(image3.jpg); }
+
+input[type="radio"]#image4:checked ~ .pic-div {
+  background: url(image4.jpg); }
+
+input[type="radio"]#image5:checked ~ .pic-div {
+  background: url(image5.jpg); }
+
+input[type="radio"]#image6:checked ~ .pic-div {
+  background: url(image6.jpg); }
