@@ -9,7 +9,7 @@ namespace Poker
         public bool IsValidHand(IHand hand)
         {
             bool valid = true;
-            if (hand.Cards.Count > 5 || HasRepeatingCards(hand) || hand.Cards.Count < 5)
+            if (hand.Cards.Count != 5 || HasRepeatingCards(hand))
             {
                 valid = false;
             }
