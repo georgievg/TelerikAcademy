@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2012\Projects\JS OOP\JS OOP\bin\JS OOP.dll
+c:\users\student\documents\visual studio 2012\Projects\JS OOP\JS OOP\bin\JS OOP.pdb
+c:\users\student\documents\visual studio 2012\Projects\JS OOP\JS OOP\obj\Debug\JS OOP.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\JS OOP\JS OOP\obj\Debug\JS OOP.dll
+c:\users\student\documents\visual studio 2012\Projects\JS OOP\JS OOP\obj\Debug\JS OOP.pdb
+C:\Users\student\Desktop\JS OOP\bin\JS OOP.dll
+C:\Users\student\Desktop\JS OOP\bin\JS OOP.pdb
+C:\Users\student\Desktop\JS OOP\obj\Debug\JS OOP.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\JS OOP\obj\Debug\JS OOP.dll
+C:\Users\student\Desktop\JS OOP\obj\Debug\JS OOP.pdb
