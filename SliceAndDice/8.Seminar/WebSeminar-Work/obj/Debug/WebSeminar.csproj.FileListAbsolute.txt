@@ -1,0 +1,5 @@
+c:\users\student\documents\visual studio 2012\Projects\WebSeminar\WebSeminar\bin\WebSeminar.dll
+c:\users\student\documents\visual studio 2012\Projects\WebSeminar\WebSeminar\bin\WebSeminar.pdb
+c:\users\student\documents\visual studio 2012\Projects\WebSeminar\WebSeminar\obj\Debug\WebSeminar.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\WebSeminar\WebSeminar\obj\Debug\WebSeminar.dll
+c:\users\student\documents\visual studio 2012\Projects\WebSeminar\WebSeminar\obj\Debug\WebSeminar.pdb

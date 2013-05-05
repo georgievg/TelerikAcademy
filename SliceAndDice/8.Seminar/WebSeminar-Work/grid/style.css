@@ -1,0 +1,78 @@
+﻿body,html,div,span,p,img,nav,ul,li,a,h1,h2,h3,h4,h5,h6 {
+    margin:0;
+    padding:0;
+    border:0;
+    font-size:100%;
+    font:inherit;
+    vertical-align:baseline;
+}
+body {
+    line-height:1;
+    background:url(img/bg.png) repeat;
+}
+
+article, aside, details, footer, header, nav, section {
+    display:block;
+}
+ol, ul {
+    list-style:none;
+}
+
+a {
+    text-decoration:none;
+}
+
+
+/****** GRID ********/
+
+
+.grid {
+    width:960px;
+}
+.coll {
+    float:left;
+}
+.coll-1 {
+    width:80px;
+}
+.coll-2 {
+    width:160px;
+}
+.coll-3 {
+    width:240px;
+}
+.coll-4 {
+    width:320px;
+}
+.coll-5 {
+    width:400px;
+}
+.coll-6 {
+    width:480px;
+}
+.coll-7 {
+    width:560px;
+}
+.coll-8 {
+    width:640px;
+}
+.coll-9 {
+    width:720px;
+}
+.coll-10 {
+    width:800px;
+}
+.coll-11 {
+    width:880px;
+}
+.coll-12 {
+    width:960px;
+}
+.grid:after {
+    content:" ";
+    display:block;
+    clear:both;
+}
+.module {
+    padding:10px;
+}

@@ -1,0 +1,147 @@
+﻿body,html,div,span,p,img,nav,ul,li,a,h1,h2,h3,h4,h5,h6 {
+    margin:0;
+    padding:0;
+    border:0;
+    font-size:100%;
+    font:inherit;
+    vertical-align:baseline;
+}
+body {
+    line-height:1;
+    background:url(img/bg.png) repeat;
+}
+
+article, aside, details, footer, header, nav, section {
+    display:block;
+}
+ol, ul {
+    list-style:none;
+}
+
+a {
+    text-decoration:none;
+}
+
+
+
+/******** WEB- WRAPPER *********/
+#wrapper {
+    width:930px;
+    margin:35px auto;
+    padding:15px;
+    background-color:#fff;
+    box-shadow:0 0 10px rgba(0,0,0,0.3);
+}
+
+/******** WEB-HEADER *********/
+
+    #web-nav {
+        margin-top:30px;
+        background-color:#00adb3;
+        height:41px;
+        line-height:41px;
+    }
+
+        #web-nav ul li {
+            display:inline-block;
+        }   
+
+            #web-nav a {
+                color:#fff;
+                text-transform:uppercase;
+                padding: 13px;
+                font-weight:bold;
+                font-family:Arial, sans-serif;
+                font-size:14px;            
+            }
+                #web-nav a:hover {
+                    text-decoration:underline;
+                    background:#fff;
+                    color:#00adb3;
+                }
+
+/******** WEB-PORTFOLIO *********/
+
+#web-portfolio {
+    margin-top:30px;
+}
+    #web-portfolio img {
+        border: 1px solid #dedede;
+        padding:6px;
+    }
+    #web-portfolio .slider-img {
+        margin-top:10px;
+    }    
+    #web-portfolio .slider-img li {
+        display:inline-block;
+        margin-right:5px;
+    }
+
+/******** WEB-CONTENT *********/
+
+#web-content {
+    border-top:dashed 2px #00adb3;
+    padding-top:50px;
+    margin-top:30px;
+}
+
+#web-content:after {
+    content: "";
+    display:block;
+    clear:both;
+}
+
+#main-web {
+    width:600px;
+    float:left;
+}
+#side-web {
+    width:330px;
+    float:right;
+}
+.post-min,.post-max {
+    background:#eee;
+    padding:18px 15px;
+    width:210px;
+    margin-right:30px;
+    float:left;
+    margin-bottom:10px;
+    border: 2px solid #000;
+}
+    .post-min h2 a,.post-max h2 a{
+        color:#00adb3;
+        font-size:20px;
+    }
+    .post-min p,.post-max p {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    a{
+        color:#00adb3;
+        font-size:15px;
+    }
+.post-max {
+    width:480px;
+}
+.mins-posts:after {
+    content:" ";
+    display:block;
+    clear:both;
+}
+
+.side h2 {
+    background:#00adb3;
+    padding:10px;
+    font-size:16px;
+    color:#fff;
+}
+.side p {
+    margin:10px 0;
+    background:#eee;
+
+}
+
+/******** WEB-FOOTER *********/
+
+/******** WEB-CLASSES *********/
