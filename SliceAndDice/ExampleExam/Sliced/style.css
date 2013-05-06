@@ -1,0 +1,228 @@
+
+html, body, div, span,h1, h2, h3, h4, h5, h6, p,a,img,form,
+ label,article, aside, footer, header,nav, section,ul,li,a{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside,footer, header, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	background:url('img/bg.png') repeat;
+	font-size:11px;
+	font-family: sans-serif;
+}
+a{
+	text-decoration:none;
+}
+ol, ul {
+	list-style: none;
+}
+.clear:after {
+	content: " ";
+	clear:both;
+	display:block;
+}
+
+/*=========================================================
+=													      =
+= 		  		       #WRAPPER						      =
+=														  =
+=========================================================*/
+
+#wrapper{
+	width:960px;
+	margin:0 auto;
+	background:#fff;
+	padding-top:55px;
+
+}
+
+/*=========================================================
+=													      =
+= 		  		       #WEB-HEADER						  =
+=														  =
+=========================================================*/
+
+#web-header {
+	
+}
+#web-header h1 {
+	font-size:2.4em;	
+}
+#web-header .black { 
+	color:#656464;
+}
+#web-header .blue {
+	color:#549eb9;
+}
+#web-header h1 {
+	float:left;
+	margin-left:55px;
+}
+#web-header #search-form input {
+	float:right;
+	border: 1px solid #efefef;
+	height:30px;
+	background: url("img/search-ico.png") no-repeat 90% center;
+	margin-right:55px;
+}
+
+	/*=====================================================
+	= 		  		       #WEB-NAV      				  =	
+	=====================================================*/
+
+	#web-nav {
+		text-transform: uppercase;
+		height:40px;
+		margin-top:50px;
+	}
+	#web-nav .current {
+		border-top:3px solid #549eb9;
+		
+	}
+		#web-nav .current a {
+			color:#8e8d8d;
+		}
+		#web-nav li:hover a {
+			color:#8e8d8d;
+		}
+	#web-nav ul {
+		border-top:1px solid #efefef;
+		border-bottom: 2px solid #ddd;
+		border-top:3px solid #f7f7f7;
+	}
+	#web-nav li {
+		display:inline-block;
+		*display:inline;
+		line-height: 40px;
+		border-right: 2px dotted #ddd;
+				
+		
+	}
+		#web-nav li:last-of-type {
+			padding:10px;
+			border-right:none;
+			float:right;
+		}
+		#web-nav li:last-of-type a{
+			padding:17px 0;
+		}
+		
+	#web-nav li a {
+		color:#ddd;
+		padding:14px 17px;
+	}
+	
+
+/*=========================================================
+=													      =
+= 		  		       #WEB-CONTENT						  =
+=														  =
+=========================================================*/
+
+#web-content{
+	
+}
+#web-content .left{
+	padding-left:40px;
+	word-break: break-word;
+	color:#dedede;
+	margin-top:40px;	
+	float:left;
+	width:590px;
+}
+#web-content .links{
+	display:inline-block;
+}
+#web-content .right{
+	margin-top:-15px;
+	width:320px;
+	float:right;
+	border-left:1px solid #dedede;
+}
+
+.right .offers{
+	margin-top:40px;
+	margin-left: 40px;
+}
+.right .offers h3{
+	font-size:2.5em;
+	color:#1f262d;
+}
+.right .offers ul{
+	list-style-image: url('img/bullet.png');
+}
+.right .offers li{
+	margin-top:20px;
+	margin-left:20px;
+}
+.right .offers a{
+	color:#656464;
+}
+
+.left .post {
+	margin-top:30px;
+	padding-left:60px;
+}
+.left .post h2{
+	text-transform:capitalize;
+	font-size:3em;
+	color:#7a7979;
+}
+.left .post h4{
+	margin-top:15px;
+	font-size:1.4em;
+	color:#c6c6c6;
+	font-style: italic;
+}
+.left .post .postImg{
+	width:485px;
+	margin-top:20px;
+	padding:5px;
+	border:1px solid #ededed;
+}
+.left .post article{
+	color:#656464;
+	font-size: 1.2em;
+	margin-top: 25px;
+}
+.left .post .read-more{
+	width:90px;
+	height: 30px;
+	background-image: url('img/read-more-btn.png');
+	display: inline-block;
+	line-height: 30px;
+	text-align: center;
+	float:right;
+	margin-right:30px;
+	color:#656565;
+}
+/*=========================================================
+=													      =
+= 		  		       #WEB-FOOTER						  =
+=														  =
+=========================================================*/
+
+#web-footer{
+	
+}
+
+
+@media only screen and (max-width : 790px) {
+	#wrapper{
+		width:668px;
+	}
+	#web-content .left{
+		width: 300px;
+
+	}
+	#web-content .right{
+		width: 150px;
+	}
+}
