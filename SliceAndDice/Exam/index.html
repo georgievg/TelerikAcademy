@@ -3,30 +3,111 @@
 <head>
 	<meta charset="utf8">
 
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen">
 	
+	<script src="js/jquery-1.9.1.min.js"></script>
 	<script src="js/script.js"></script>
+	<script src="js/modernizr.custom.70225.js"></script>
 </head>
 <body>
 	<div id="wrapper">
+		<div id="header-wrap">
+			<img src="img/left-arrow.png" alt="left-arrow" id="left-arrow">
+			<img src="img/right-arrow.png" alt="right-arrow" id="right-arrow">
+			<header id="web-header" class='clear wrap' >
+				<h1>Telerik Academy</h1>
+				<nav id="web-nav">
+					<ul class='clear'>
+						<li><a href="#" title='home' class='current'>Home</a></li><!--
+						--><li><a href="#" title='about us'>About us</a></li><!--
+						--><li><a href="#" title='testimonials'>Testimonials</a></li><!--
+						--><li><a href="#" title='blog'>Blog</a></li><!--
+						--><li><a href="#" title='sitemap'>Sitemap</a></li><!--
+						--><li><a href="#" title='affiliates'>Affiliates</a></li><!--
+						--><li id='forum'><a href="#" title='forum'>Forum</a></li><!--
+						--><li id='updates'><a href="#" title='updates'>Updates</a></li>
+					</ul>
+					<div id="logo">
+						<h2><span>Simple</span>&<span>Flexible</span></h2>
+						<h3>This is a description of the homepage</h3>
+					</div>
+				</nav>
 
-		<header id="web-header">
+			</header>
+		</div>
+			
 
-			<nav id="web-nav">
-
-				<ul>
-
-					<li><a href="#"></a></li><!--
-					--><li><a href="#"></a></li><!--
-					--><li><a href="#"></a></li><!--
-					--><li><a href="#"></a></li><!--
-					--><li><a href="#"></a></li>
-
-				</ul>
-
-			</nav>
-
-		</header>
+		<div id="features-wrap">
+			<div class='clear features'>
+				<div class='clear three-features'>
+					<section class="feature" id='first-feature'>
+					<img src="img/quote-img.png" alt="quote">
+					<h3>Responsive Web Design</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, nostrum, nihil iure repellendus veniam velit similique consequatur debitis officiis tempore recusandae est delectus doloremque omnis illo laboriosam pariatur facilis. Aperiam!</p>
+					<a href="#" class="learn-more" title="Learn More">Learn More</a>
+				</section>
+				<section class="feature second-feature">
+					<img src="img/quote-img.png" alt="quote">
+					<h3>Responsive Web Design</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, nostrum, nihil iure repellendus veniam velit similique consequatur debitis officiis tempore recusandae est delectus doloremque omnis illo laboriosam pariatur facilis. Aperiam!</p>
+					<a href="#" class="learn-more current" title="Learn More">Learn More</a>
+				</section>
+				<section class="feature clear last-feature">
+					<img src="img/quote-img.png" alt="quote">
+					<h3>Responsive Web Design</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, nostrum, nihil iure repellendus veniam velit similique consequatur debitis officiis tempore recusandae est delectus doloremque omnis illo laboriosam pariatur facilis. Aperiam!</p>
+					<a href="#" class="learn-more" title="Learn More">Learn More</a>
+				</section>
+				</div>
+			
+					<div id='quotes-container'>
+						<h4 class='big-wise-words'>Maecenas vestibulum faucibus enim vel gravida quisq acinter</h4>
+						<h5 class='smaller-wise-words'>congue nec consectetur libero fusce neque libero, consectetur sit amet cursus a, tempor quis neque. Suspendisse diam lacus, pellentesque ac interdum vitae, vehicula eu mi.Phasellus ante urna, porta </h5>
+					</div>				
+			</div>
+		</div>
+		
+		<div id="news-updates-wrap">
+			<div id="news-updates">
+				<div class='news-clear-wrap'>
+					<div id="logo">
+						<h2><span>News</span>&<span>Updates</span></h2>
+						<h3>This is a description of the homepage</h3>
+					</div>
+					<div class='clear features'>
+					<div class='clear three-features'>
+						<section class="feature first-feature" >
+						<img src="img/post-ball.png" alt="quote">
+						<h3>Blog Post Goes Here</h3>
+						<div class="posted-info">Posted by Admin on March 13, 2012 </div>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, nostrum, nihil iure repellendus veniam velit similique consequatur debitis officiis tempore recusandae est delectus doloremque omnis illo laboriosam pariatur facilis. Aperiam!</p>
+						<a href="#" class="learn-more" title="Learn More">Learn More</a>
+					</section>
+					<section class="feature second-feature">
+						<img src="img/post-ball.png" alt="quote">
+						<h3>Blog Post Goes Here</h3>
+						<div class="posted-info">Posted by Admin on March 13, 2012 </div>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, nostrum, nihil iure repellendus veniam velit similique consequatur debitis officiis tempore recusandae est delectus doloremque omnis illo laboriosam pariatur facilis. Aperiam!</p>
+						<a href="#" class="learn-more current" title="Learn More">Learn More</a>
+					</section>
+					<section class="feature clear last-feature">
+						<img src="img/post-ball.png" alt="quote">
+						<h3>Blog Post Goes Here</h3>
+						<div class="posted-info">Posted by Admin on March 13, 2012 </div>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, nostrum, nihil iure repellendus veniam velit similique consequatur debitis officiis tempore recusandae est delectus doloremque omnis illo laboriosam pariatur facilis. Aperiam!</p>
+						<a href="#" class="learn-more" title="Learn More">Learn More</a>
+					</section>
+					</div>	
+				</div>	
+			</div>
+			<a href="#" class="view-more-posts">View More Blog Posts</a>
+		</div>
+			</div>
+		</div>
+		
+		<div id="work-freedom">
+			
+		</div>
 
 		<div id="web-content">
 			
@@ -35,6 +116,9 @@
 		<footer id="web-footer">
 			
 		</footer>
+
+	<script src="js/css3-mediaqueries.js"></script>
 	</div>
+
 </body>
 </html>

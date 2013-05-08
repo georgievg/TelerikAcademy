@@ -12,6 +12,8 @@ article, aside,footer, header, nav, section {
 }
 body {
 	line-height: 1;
+	font-weight: normal;
+	font-size: 10px;
 }
 a{
 	text-decoration:none;
@@ -24,15 +26,56 @@ ol, ul {
 	clear:both;
 	display:block;
 }
+/** FONTS **/
+@font-face { 
+             font-family:"Open Sans Extrabold";
+             src:url("fonts/OpenSans-ExtraBold.eot?");
+           }
+ @font-face {
+ 	font-family:"Open Sans Extrabold";
+ 	src:url("fonts/OpenSans-ExtraBold.eot?") format("eot"),url("fonts/OpenSans-ExtraBold.woff") format("woff"),url("fonts/OpenSans-ExtraBold.ttf") format("truetype"),url("fonts/OpenSans-ExtraBold.svg#OpenSans-Extrabold") format("svg");font-weight:normal;font-style:normal;
+ }
+ @font-face {
+	font-family:"Open Sans Semibold";
+	src:url("fonts/OpenSans-Semibold.eot?");
+}
+@font-face {
+	font-family:"Open Sans Semibold";
+	src:url("fonts/OpenSans-Semibold.eot?") format("eot"),url("fonts/OpenSans-Semibold.woff") format("woff"),url("fonts/OpenSans-Semibold.ttf") format("truetype"),url("fonts/OpenSans-Semibold.svg#OpenSans-Semibold") format("svg");font-weight:normal;font-style:normal;
+}
+@font-face {
+	font-family:"Open Sans Light";
+	src:url("fonts/OpenSans-Light.eot?");
+}
+@font-face {
+	font-family:"Open Sans Light";
+	src:url("fonts/OpenSans-Light.eot?") format("eot"),url("fonts/OpenSans-Light.woff") format("woff"),url("fonts/OpenSans-Light.ttf") format("truetype"),url("fonts/OpenSans-Light.svg#OpenSans-Light") format("svg");font-weight:normal;font-style:normal;
+}
+@font-face {
+	font-family:"Open Sans";
+	src:url("fonts/OpenSans-Regular.eot?");
+}
+@font-face {
+	font-family:"Open Sans";
+	src:url("fonts/OpenSans-Regular.eot?") format("eot"),url("fonts/OpenSans-Regular.woff") format("woff"),url("fonts/OpenSans-Regular.ttf") format("truetype"),url("fonts/OpenSans-Regular.svg#OpenSans") format("svg");font-weight:normal;font-style:normal;
+}
+
+
 
 /*=========================================================
 =													      =
 = 		  		       #WRAPPER						      =
 =														  =
 =========================================================*/
+.wrap{
+	width:995px;
+	margin:0 auto;
+}
 
 #wrapper{
-
+	width:100%;
+	background: #489ec7;
+	margin:0 auto;
 }
 
 /*=========================================================
@@ -40,18 +83,247 @@ ol, ul {
 = 		  		       #WEB-HEADER						  =
 =														  =
 =========================================================*/
-
-#web-header{
-
+#header-wrap{
+	width:100%;
+	height:661px;
+	background:url('img/header-bg.png') repeat-x;
 }
-
+#web-header{
+	width:960px;
+	padding-top:50px;
+	height:611px;	
+	background: url('img/img-under-logo.png') no-repeat center bottom;
+}
+#web-header h1{
+	font-family: 'Myriad Pro','Droid Sans','PT Sans Narrow', Arial,sans-serif;
+	font-size: 4.8em;
+	color:#fff;
+	font-weight: normal;
+	display:inline;
+}
+#left-arrow,#right-arrow{
+	position:absolute;
+	top:305px;
+}
+#left-arrow{
+	left:135px;
+}
+#right-arrow{
+	right:95px;
+}
 	/*=====================================================
 	= 		  		       #WEB-NAV      				  =	
 	=====================================================*/
-
-	#web-nav{
-		
+	
+	#web-nav,#web-nav ul{
+		display:inline;
 	}
+	#web-nav ul{
+		margin-left: 10px;
+	}
+	#web-nav ul li{
+		display:inline;
+		padding:0;			
+		margin:0;
+		height:32px;
+	}
+	#web-nav a{
+		line-height: 32px;
+		zoom:1;
+		font-size: 1.4em;
+		font-weight:normal;
+		font-family: 'Open Sans Semibold','PT Sans Narrow';
+		text-transform: capitalize;
+		color:#fff;
+		padding:11px 11px;
+	}
+	#web-nav .current{	
+		behavior:url('PIE.htc');
+		border:1px solid #446f83;
+		background:#186387;
+		border-radius: 5px;
+	}
+	#logo{
+		width:auto;
+		height:117px;
+		margin:0 auto;
+		color:#fff;
+	}
+	#logo h2{	
+		font-size:72px;
+	}
+	#logo span{
+		font-family: 'Open Sans Extrabold' ,sans-serif;
+	}
+	#logo{	
+		margin-top:110px;
+		text-align: center;		
+		font-family: 'Open Sans Light',sans-serif;
+	}
+	#logo h3{
+		font-size:36px;
+	}
+
+/*=========================================================
+=													      =
+= 		  		       #FEATURES						  =
+=														  =
+=========================================================*/
+
+#features-wrap{
+	background:#fff;
+	min-height:780px;
+}
+.features{
+	width:960px;
+	margin:0 auto;
+
+}
+.feature{	
+	margin-top:75px;
+	width:260px;
+	float:left;
+}
+.feature img{
+	display:block;
+	margin: 0 auto;
+}
+.feature h3{
+	margin-top:30px;
+	font-family: 'Open Sans Light',sans-serif;
+	font-size: 24px;
+	color:#afaeae;
+	font-weight: normal;
+}
+.feature p{
+	font-family: 'Open Sans',sans-serif;
+	color:#555e58;
+	font-size: 14px;
+}
+
+.feature .learn-more{
+	line-height: 32px;
+	text-align: center;
+	margin-top:20px;
+	float:right;
+	height:32px;
+	border:1px solid #e0dddd;
+	background-color:#f2f2f2;
+	border-radius: 5px;
+	color:#9a9999;
+	font-family: 'Open Sans',sans-serif;
+	font-size: 14px;
+	width:100px;
+}
+.feature .current{
+	background-color: #1a6f96;
+	color:#fff;
+	border:1px solid #44758c;
+}
+
+.second-feature{
+	margin-left:80px;
+}
+.last-feature{
+	margin-left:70px;
+}
+.big-wise-words{
+	text-align: center;
+	color:#555e58;
+	font-size: 30px;
+	font-family:'Open Sans',Arial,sans-serif;
+}
+#left-quote{	
+	position: absolute;
+	left:-20px;
+	top:-10px;
+	font-weight: bold;
+}
+#right-quote{
+	position: absolute;
+	right:0px;
+	top:-10px;
+	font-weight: bold;
+}
+.smaller-wise-words{
+	text-align: center;
+	font-family:'Open Sans Light',sans-serif;
+	font-size:24px;
+	text-align: center;
+
+}
+#quotes-container{
+	margin-top:95px;
+	height:300px;
+	width:100%;
+}
+
+/*=========================================================
+=													      =
+= 		  		       #NEWS-UPDATES					  =
+=														  =
+=========================================================*/
+
+#news-updates-wrap{
+	min-height:755px;
+	background: :#829aa7;
+	width:960px;
+	margin:0 auto;
+}
+#news-updates .feature{
+	width:270px;
+}
+#news-updates .feature h3{
+	font-family: "Open Sans Extrabold",sans-serif;
+	font-size: 22px;
+	color:#fff;
+}
+#news-updates .feature .learn-more{
+	background: #68726c;
+	color:#535955;
+	border:1px solid #535955;
+}
+#news-updates .feature .current{
+	background: #186f96;
+	color:#fff;
+}
+#news-updates .feature p{
+	color:#fff;
+}
+#news-updates .posted-info{
+	color:#b0bab4;
+	font-size: 14px;
+	font-family: 'Open Sans',sans-serif;
+	margin-top:10px;
+}
+#news-updates p{
+	margin-top:10px;
+}
+#news-updates .view-more-posts{
+	height:62px;
+	background: #606863;
+	color:#f2f2f2;
+	display:block;
+	margin-top:60px;
+	margin-left: auto;
+	margin-right: auto;
+	width:340px;
+	line-height: 62px;
+	text-align: center;
+	font-family: 'Open Sans Light',sans-serif;
+	font-size:30px;
+	border-radius: 10px;
+	border:1px solid #404642;
+}
+/*=========================================================
+=													      =
+= 		  		       #WORK-FREEDOM					  =
+=														  =
+=========================================================*/
+#work-freedom{
+	height:785px;
+	background:#f5f5f5;
+}
 
 
 /*=========================================================
@@ -72,4 +344,165 @@ ol, ul {
 
 #web-footer{
 
+}
+
+
+/*=========================================================
+=													      =
+= 		  		       #MEDIA 768px						  =
+=														  =
+=========================================================*/
+
+@media only screen and (max-width : 960px) {
+	#logo h2{	
+		font-size:60px;
+	}
+	#web-nav a{
+		padding:11px 7px;
+		height:33px;
+	}
+	#web-header{
+		width:768px;
+		margin:0 auto;
+		background: url('img/img-under-logo-768.png') no-repeat center bottom;
+	}
+	#web-nav ul #forum,#web-nav ul #updates{
+		display:none;
+	}
+	#left-arrow{
+		left:0;
+	}
+	#right-arrow{
+		right:0;
+	}
+
+	.feature{
+		width:200px;
+	}
+	.feature h3{
+		font-size:18px ;
+	}
+	.feature p{
+		font-size: 14px;
+	}
+	#quotes-container{
+		width:700px;
+	}
+	#quotes-container .big-wise-words{
+		font-size:24px;
+	}
+	#quotes-container h5{
+		font-size:18px;
+	}
+	#features-wrap{
+		padding-left: 90px;
+	}
+	
+	#news-updates .feature{
+		width:200px;
+	}
+	#news-updates .feature h3{
+		font-size: 18px;
+	}
+	#news-updates .feature p{
+		14px
+	}
+	#news-updates .first-feature{
+		margin-left:80px;
+	}
+	#news-updates .posted-info{
+		height:15px;
+		overflow: hidden;
+	}
+
+}
+
+/*=========================================================
+=													      =
+= 		  		       #MEDIA 480px						  =
+=														  =
+=========================================================*/
+
+@media only screen and (max-width : 500px) {
+	#web-header{
+		width:480px;
+		background: url('img/img-under-logo-480.png') no-repeat center bottom;
+	}
+
+	#web-header h1{
+		text-align: center;
+		display:block;
+		margin:0 auto;
+	}
+	#web-nav {
+		display:block;
+		margin:0 auto;
+		text-align: center;
+	}
+	#web-nav ul{
+		display: block;
+		margin:0 auto;
+	}
+	#web-nav ul li .current{
+		border:none;
+		background: none;
+	}
+	#web-nav ul li{
+		margin:0 auto;
+		width:320px;
+		display:block;
+		z-index:0;
+		behavior:url('PIE.htc');
+		border:1px solid #446f83;
+		position: relative;
+		zoom:1;;
+		background:#186387;
+		border-radius: 10px;
+	}
+	#logo{
+		margin-top:60px;
+	}
+	#logo h2{	
+		font-size:48px;
+	}
+	#logo h3{
+		font-size:24px;
+	}
+	#left-arrow,#right-arrow{
+	position:absolute;
+	top:475px;
+	}
+	#left-arrow{
+		left:0;
+	}
+	#right-arrow{
+		right:0;
+	}
+	#features-wrap{
+		padding:0;
+	}
+	.feature{
+		margin-left:0 !important;
+		display:block;
+		width:455px;
+		clear:both;
+	}
+	.feature h3{
+		font-family: "Open Sans Extrabold",sans-serif;
+		font-size:18px;
+		color:#555e58;
+	}
+	#qutoes-container{
+		width:300px;
+		overflow: hidden;
+	}
+	#quotes-container .big-wise-words{
+		font-size:14px;
+		width:455px;
+		font-weight: bold;
+	}
+	#quotes-container .smaller-wise-words{
+		width:455px;
+		font-size:13px;
+	}
 }
