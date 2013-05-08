@@ -11,7 +11,8 @@ namespace MatriceWalk
         {
             int matrixLength = 3;
             int[,] matrix = new int[matrixLength,matrixLength];
-
+            int currRow = 0;
+            int currCol = 0;
 
         }
     }

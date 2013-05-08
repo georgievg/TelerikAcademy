@@ -27,17 +27,20 @@ class WalkInMatrice
         {
             matrice[row, col] = currentValue;
 
-            //if (row + directionX >= n || row + directionX < 0 || col + directionY >= n || col + directionY < 0 || matrice[row + directionX, col + directionY] != 0)
-            {
-                while ((row + directionX >= matriceLength || row + directionX < 0 || col + directionY >= matriceLength || col + directionY < 0 || matrice[row + directionX, col + directionY] != 0))
-                {
-                    ChangeDirection(ref directionX, ref directionY);
-                }
+            ////if (row + directionX >= n || row + directionX < 0 || col + directionY >= n || col + directionY < 0 || matrice[row + directionX, col + directionY] != 0)
+            //{
+            //    while ((row + directionX >= matriceLength || row + directionX < 0 || col + directionY >= matriceLength || col + directionY < 0 || matrice[row + directionX, col + directionY] != 0))
+            //    {
+            //        ChangeDirection(ref directionX, ref directionY);
+            //    }
 
-                row += directionX; 
-                col += directionY; 
-                currentValue++;
-            }
+            //    row += directionX; 
+            //    col += directionY; 
+            //    currentValue++;
+            //}
+
+
+
         }
         for (int p = 0; p < matriceLength; p++)
         {

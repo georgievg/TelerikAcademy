@@ -3,20 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-    public static class Extensions
+public static class Extensions
+{
+    public static bool Contains(this int[,] arr, int numToFind)
     {
-        public static bool Contains(this int[,] arr, int numToFind)
+        bool containsNum = false;
+        foreach (var num in arr)
         {
-            bool containsNum = false;
-            foreach (var num in arr)
+            if (num == numToFind)
             {
-                if (num == numToFind)
-                {
-                    containsNum = true;
-                }
+                containsNum = true;
             }
-
-            return containsNum;
         }
+
+        return containsNum;
     }
+}
 
