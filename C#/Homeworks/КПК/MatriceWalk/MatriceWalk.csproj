@@ -44,6 +44,8 @@
     <Compile Include="Direction.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="MatriceWalk.cs" />
+    <Compile Include="Matrix.cs" />
+    <Compile Include="MatrixIndexer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

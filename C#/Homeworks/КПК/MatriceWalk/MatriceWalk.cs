@@ -13,6 +13,8 @@ namespace MatriceWalk
             int[,] matrix = new int[matrixLength,matrixLength];
             int currRow = 0;
             int currCol = 0;
+            int currValue = 1;
+
 
         }
     }

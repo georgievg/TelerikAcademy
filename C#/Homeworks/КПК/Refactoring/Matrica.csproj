@@ -39,6 +39,7 @@
   <ItemGroup>
     <Compile Include="Direction.cs" />
     <Compile Include="Extensions.cs" />
+    <Compile Include="Matrix.cs" />
     <Compile Include="WalkInMatrice.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
