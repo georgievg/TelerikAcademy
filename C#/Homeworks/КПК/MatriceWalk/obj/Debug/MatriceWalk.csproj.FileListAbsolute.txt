@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\TelerikAcademy\C#\Homeworks\КПК\MatriceWalk\bin\Debug\MatriceWalk.exe.config
+C:\Users\student\Desktop\TelerikAcademy\C#\Homeworks\КПК\MatriceWalk\bin\Debug\MatriceWalk.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\Homeworks\КПК\MatriceWalk\bin\Debug\MatriceWalk.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\Homeworks\КПК\MatriceWalk\obj\Debug\MatriceWalk.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\TelerikAcademy\C#\Homeworks\КПК\MatriceWalk\obj\Debug\MatriceWalk.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\Homeworks\КПК\MatriceWalk\obj\Debug\MatriceWalk.pdb
