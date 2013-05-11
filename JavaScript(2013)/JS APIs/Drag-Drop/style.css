@@ -1,0 +1,38 @@
+﻿body {
+    background:#000;
+}
+#basket-wrap {
+   float:left;
+}
+#balls-wrap {
+    float:left;
+    height:510px;
+    width:600px;
+    position:relative;
+}
+
+#start-wrap {
+    width:100%;
+    z-index:1000;
+    height:1000px;
+    position:absolute;
+    top:0;
+    background:#000;
+}
+#start-btn{
+    display:block;
+    margin:0 auto;
+    margin-top:300px;
+    font-size:20px;
+    padding:10px;
+}
+
+#time {
+    font-size:25px;
+    color:#fff;
+    text-align:center;
+}
+
+#scores {
+    color:#fff;
+}

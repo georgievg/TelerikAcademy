@@ -1,0 +1,10 @@
+﻿body {
+    background:#000;
+}
+#canvas {
+    border:1px solid #fff;
+}
+#instructions {
+    color:#fff;
+    font-size:33px;
+}

@@ -1,0 +1,11 @@
+﻿body {
+    background:#000;
+}
+
+#canvas {
+    border:2px solid #b6ff00;
+}
+#scores {
+    font-size:30px;
+    color:#fff;
+}
