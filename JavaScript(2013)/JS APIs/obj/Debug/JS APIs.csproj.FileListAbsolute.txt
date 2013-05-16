@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2012\Projects\JS APIs\JS APIs\bin\JS APIs.dll
+c:\users\student\documents\visual studio 2012\Projects\JS APIs\JS APIs\bin\JS APIs.pdb
+c:\users\student\documents\visual studio 2012\Projects\JS APIs\JS APIs\obj\Debug\JS APIs.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\JS APIs\JS APIs\obj\Debug\JS APIs.dll
+c:\users\student\documents\visual studio 2012\Projects\JS APIs\JS APIs\obj\Debug\JS APIs.pdb
+C:\Users\student\Desktop\JS APIs\bin\JS APIs.dll
+C:\Users\student\Desktop\JS APIs\bin\JS APIs.pdb
+C:\Users\student\Desktop\JS APIs\obj\Debug\JS APIs.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\JS APIs\obj\Debug\JS APIs.dll
+C:\Users\student\Desktop\JS APIs\obj\Debug\JS APIs.pdb
