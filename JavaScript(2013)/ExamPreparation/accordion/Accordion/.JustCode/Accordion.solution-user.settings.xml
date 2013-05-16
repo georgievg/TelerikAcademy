@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="297ffff0-4eb8-48d6-ae5c-953bb2e4f184">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>Properties/AssemblyInfo.cs</FileRelativePath>
+        <ProjectRelativePath>Accordion.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>10113840695211819355</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

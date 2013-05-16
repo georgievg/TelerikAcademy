@@ -1,0 +1,6 @@
+C:\Users\BlackHawk\Dropbox\Telerik\JavaScript(2013)\ExamPreparation\accordion\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\JavaScript(2013)\ExamPreparation\accordion\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\BlackHawk\Dropbox\Telerik\JavaScript(2013)\ExamPreparation\accordion\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\JavaScript(2013)\ExamPreparation\accordion\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\JavaScript(2013)\ExamPreparation\accordion\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\BlackHawk\Dropbox\Telerik\JavaScript(2013)\ExamPreparation\accordion\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

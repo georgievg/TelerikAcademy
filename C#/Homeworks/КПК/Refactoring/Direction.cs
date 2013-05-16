@@ -1,21 +1,28 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace MatriceWalk
+public class Direction
 {
-    public enum Direction
+    public int[] dirX
     {
-        RightDown = 0,
-        Down = 1,
-        LeftDown = 2,
-        Left = 3,
-        LeftUp = 4,
-        Up = 5,
-        RightUp = 6,
-        Right = 7,
-        None = 8
+        get
+        {
+            return this.dirX;
+        }
+        set
+        {
+            this.dirX = new int[8] { 1, 1, 1, 0, -1, -1, -1, 0 };
+        }
+    }
+
+    public int[] dirY
+    {
+        get
+        {
+            return this.dirY;
+        }
+        set
+        {
+            this.dirY = new int[8] { 1, 0, -1, -1, -1, 0, 1, 1 };
+        }
     }
 }

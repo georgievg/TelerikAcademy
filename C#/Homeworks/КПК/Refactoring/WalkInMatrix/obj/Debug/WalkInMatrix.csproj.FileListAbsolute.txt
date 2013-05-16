@@ -1,0 +1,6 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\Homeworks\КПК\Refactoring\WalkInMatrix\bin\Debug\WalkInMatrix.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\Homeworks\КПК\Refactoring\WalkInMatrix\bin\Debug\WalkInMatrix.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\Homeworks\КПК\Refactoring\WalkInMatrix\bin\Debug\WalkInMatrix.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\Homeworks\КПК\Refactoring\WalkInMatrix\obj\Debug\WalkInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\C#\Homeworks\КПК\Refactoring\WalkInMatrix\obj\Debug\WalkInMatrix.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\Homeworks\КПК\Refactoring\WalkInMatrix\obj\Debug\WalkInMatrix.pdb

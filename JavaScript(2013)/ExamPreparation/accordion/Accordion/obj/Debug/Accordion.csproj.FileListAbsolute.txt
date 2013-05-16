@@ -1,0 +1,5 @@
+C:\Users\BlackHawk\Dropbox\Telerik\JavaScript(2013)\ExamPreparation\accordion\Accordion\bin\Accordion.dll
+C:\Users\BlackHawk\Dropbox\Telerik\JavaScript(2013)\ExamPreparation\accordion\Accordion\bin\Accordion.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\JavaScript(2013)\ExamPreparation\accordion\Accordion\obj\Debug\Accordion.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\JavaScript(2013)\ExamPreparation\accordion\Accordion\obj\Debug\Accordion.dll
+C:\Users\BlackHawk\Dropbox\Telerik\JavaScript(2013)\ExamPreparation\accordion\Accordion\obj\Debug\Accordion.pdb

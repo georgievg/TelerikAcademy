@@ -8,3 +8,8 @@ C:\Users\student\Desktop\TelerikAcademy\SliceAndDice\Exam\Server\SliceDiceExam\b
 C:\Users\student\Desktop\TelerikAcademy\SliceAndDice\Exam\Server\SliceDiceExam\obj\Debug\SliceDiceExam.csprojResolveAssemblyReference.cache
 C:\Users\student\Desktop\TelerikAcademy\SliceAndDice\Exam\Server\SliceDiceExam\obj\Debug\SliceDiceExam.dll
 C:\Users\student\Desktop\TelerikAcademy\SliceAndDice\Exam\Server\SliceDiceExam\obj\Debug\SliceDiceExam.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\SliceAndDice\Exam\Server\SliceDiceExam\bin\SliceDiceExam.dll
+C:\Users\BlackHawk\Dropbox\Telerik\SliceAndDice\Exam\Server\SliceDiceExam\bin\SliceDiceExam.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\SliceAndDice\Exam\Server\SliceDiceExam\obj\Debug\SliceDiceExam.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\SliceAndDice\Exam\Server\SliceDiceExam\obj\Debug\SliceDiceExam.dll
+C:\Users\BlackHawk\Dropbox\Telerik\SliceAndDice\Exam\Server\SliceDiceExam\obj\Debug\SliceDiceExam.pdb
