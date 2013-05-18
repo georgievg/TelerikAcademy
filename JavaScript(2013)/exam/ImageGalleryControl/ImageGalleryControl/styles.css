@@ -1,0 +1,41 @@
+﻿.gallery{
+    border:2px solid #000;
+}
+    .gallery img
+    {
+        border:2px solid red;
+        margin:5px;
+        padding:5px;
+    }
+    .gallery .album
+    {
+        position:relative;
+        padding: 5px;
+        margin: 20px;
+        border: 2px solid green;
+        -moz-box-shadow: 5px 10px 5px #000;
+        -webkit-box-shadow: 5px 10px 5px #000;
+        box-shadow: 5px 10px 5px #000;
+    }
+        .gallery .album h2
+        {
+            margin:5px;
+            font-size:40px;
+            color:#fff;
+            text-align:center;
+            padding:0;
+            background-color:gray;
+            cursor:pointer;
+        }
+.largeImg
+{
+    
+}
+
+.sort-btn
+{
+    position:absolute;
+    top:10px;
+    right:10px;
+    text-transform:uppercase;
+}

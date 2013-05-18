@@ -1,0 +1,5 @@
+c:\users\student\documents\visual studio 2012\Projects\ImageGalleryControl\ImageGalleryControl\bin\ImageGalleryControl.dll
+c:\users\student\documents\visual studio 2012\Projects\ImageGalleryControl\ImageGalleryControl\bin\ImageGalleryControl.pdb
+c:\users\student\documents\visual studio 2012\Projects\ImageGalleryControl\ImageGalleryControl\obj\Debug\ImageGalleryControl.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\ImageGalleryControl\ImageGalleryControl\obj\Debug\ImageGalleryControl.dll
+c:\users\student\documents\visual studio 2012\Projects\ImageGalleryControl\ImageGalleryControl\obj\Debug\ImageGalleryControl.pdb

@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>    
+    <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+    
+    <div id="gallery">
+
+    </div>
+
+
+
+    <script src="js/web-storage-objects.js"></script>
+    <script src="js/externalLibs.js"></script>
+    <script src="js/image.js"></script>
+    <script src="js/album.js"></script>
+    <script src="js/imageGallery.js"></script>
+    <script src="js/mainController.js"></script>
+
+    <script>
+        //all files are intentionaly left separated and unminified
+
+        // initialize a gallery class inside a container
+        var gallery = MainController.createImageGallery("#gallery");
+
+        // create a album inside the gallery
+        var awesomeAlbum = new Album("U are awesome");
+        gallery.addAlbum(awesomeAlbum);
+
+        //create a picture inside the album
+        var awesomePic = new Picture("../who-is-awesome.jpg", "Awesome");
+        awesomeAlbum.addPicture(awesomePic);
+
+        var secondAwesomeAlbum = new Album("U are awesome 2");
+        awesomeAlbum.addAlbum(secondAwesomeAlbum);
+
+        var thirdAwesomeAlbum = new Album("U are awesome 3");
+        awesomeAlbum.addAlbum(thirdAwesomeAlbum);
+
+        var forthAwesomePic = new Picture("../who-is-awesome.jpg", "Awesome 4");
+        thirdAwesomeAlbum.addPicture(forthAwesomePic);
+
+        var secondAwesomePic = new Picture("../who-is-awesome.jpg", "Awesome 2");
+        secondAwesomeAlbum.addPicture(secondAwesomePic);
+
+        var thirdAwesomePic = new Picture("../who-is-awesome.jpg", "Awesome 3");
+        secondAwesomeAlbum.addPicture(thirdAwesomePic);
+
+        //save the gallery to local repository with key gallery
+        MainController.saveToLocalRepository('gallery', gallery);
+        //load the gallery from local repository
+        var loadedImgGallery = MainController.loadFromLocalRepository('gallery');
+
+        //render the loaded gallery -> string [selector] | bool [append]
+        loadedImgGallery.renderReadyGallery("#gallery", false);
+        
+    </script>
+</body>
+</html>
