@@ -1,0 +1,8 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\03.SortListOfInts\bin\Debug\03.SortListOfInts.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\03.SortListOfInts\bin\Debug\03.SortListOfInts.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\03.SortListOfInts\bin\Debug\03.SortListOfInts.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\03.SortListOfInts\bin\Debug\1.AverageAndSumOfNumbers.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\03.SortListOfInts\bin\Debug\1.AverageAndSumOfNumbers.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\03.SortListOfInts\obj\Debug\03.SortListOfInts.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\03.SortListOfInts\obj\Debug\03.SortListOfInts.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\03.SortListOfInts\obj\Debug\03.SortListOfInts.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\HQKExamPrep\FreeContentCatalog.Tests\bin\Debug\FreeContentCatalog.Tests.dll
+C:\Users\BlackHawk\Dropbox\Telerik\C#\HQKExamPrep\FreeContentCatalog.Tests\bin\Debug\FreeContentCatalog.Tests.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\HQKExamPrep\FreeContentCatalog.Tests\bin\Debug\KPK-Practical-Exam.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\HQKExamPrep\FreeContentCatalog.Tests\bin\Debug\PowerCollections.dll
+C:\Users\BlackHawk\Dropbox\Telerik\C#\HQKExamPrep\FreeContentCatalog.Tests\bin\Debug\KPK-Practical-Exam.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\HQKExamPrep\FreeContentCatalog.Tests\bin\Debug\PowerCollections.xml
+C:\Users\BlackHawk\Dropbox\Telerik\C#\HQKExamPrep\FreeContentCatalog.Tests\obj\Debug\FreeContentCatalog.Tests.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\C#\HQKExamPrep\FreeContentCatalog.Tests\obj\Debug\FreeContentCatalog.Tests.dll
+C:\Users\BlackHawk\Dropbox\Telerik\C#\HQKExamPrep\FreeContentCatalog.Tests\obj\Debug\FreeContentCatalog.Tests.pdb

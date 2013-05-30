@@ -1,0 +1,6 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\07.OccurancesOfNumbers\bin\Debug\07.OccurancesOfNumbers.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\07.OccurancesOfNumbers\bin\Debug\07.OccurancesOfNumbers.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\07.OccurancesOfNumbers\bin\Debug\07.OccurancesOfNumbers.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\07.OccurancesOfNumbers\obj\Debug\07.OccurancesOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\07.OccurancesOfNumbers\obj\Debug\07.OccurancesOfNumbers.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\07.OccurancesOfNumbers\obj\Debug\07.OccurancesOfNumbers.pdb

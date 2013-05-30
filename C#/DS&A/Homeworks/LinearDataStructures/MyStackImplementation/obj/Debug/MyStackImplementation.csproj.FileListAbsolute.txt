@@ -1,0 +1,6 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation\obj\Debug\MyStackImplementation.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation\bin\Debug\MyStackImplementation.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation\bin\Debug\MyStackImplementation.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation\bin\Debug\MyStackImplementation.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation\obj\Debug\MyStackImplementation.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation\obj\Debug\MyStackImplementation.pdb

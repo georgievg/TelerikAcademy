@@ -1,0 +1,5 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\5.RemoveAllNegativeNumbersFromSequence\bin\Debug\5.RemoveAllNegativeNumbersFromSequence.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\5.RemoveAllNegativeNumbersFromSequence\bin\Debug\5.RemoveAllNegativeNumbersFromSequence.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\5.RemoveAllNegativeNumbersFromSequence\bin\Debug\5.RemoveAllNegativeNumbersFromSequence.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\5.RemoveAllNegativeNumbersFromSequence\obj\Debug\5.RemoveAllNegativeNumbersFromSequence.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\5.RemoveAllNegativeNumbersFromSequence\obj\Debug\5.RemoveAllNegativeNumbersFromSequence.pdb

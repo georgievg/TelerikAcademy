@@ -1,0 +1,6 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\13.MyQueueImplementation\bin\Debug\13.MyQueueImplementation.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\13.MyQueueImplementation\bin\Debug\13.MyQueueImplementation.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\13.MyQueueImplementation\bin\Debug\13.MyQueueImplementation.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\13.MyQueueImplementation\obj\Debug\13.MyQueueImplementation.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\13.MyQueueImplementation\obj\Debug\13.MyQueueImplementation.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\13.MyQueueImplementation\obj\Debug\13.MyQueueImplementation.pdb

@@ -1,0 +1,8 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\2.ReadNumbersAndReversWithStack\bin\Debug\2.ReadNumbersAndReversWithStack.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\2.ReadNumbersAndReversWithStack\obj\Debug\2.ReadNumbersAndReversWithStack.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\2.ReadNumbersAndReversWithStack\obj\Debug\2.ReadNumbersAndReversWithStack.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\2.ReadNumbersAndReversWithStack\bin\Debug\2.ReadNumbersAndReversWithStack.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\2.ReadNumbersAndReversWithStack\bin\Debug\2.ReadNumbersAndReversWithStack.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\2.ReadNumbersAndReversWithStack\bin\Debug\1.AverageAndSumOfNumbers.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\2.ReadNumbersAndReversWithStack\bin\Debug\1.AverageAndSumOfNumbers.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\2.ReadNumbersAndReversWithStack\obj\Debug\02.ReadNumbersAndReversWithStack.csprojResolveAssemblyReference.cache
