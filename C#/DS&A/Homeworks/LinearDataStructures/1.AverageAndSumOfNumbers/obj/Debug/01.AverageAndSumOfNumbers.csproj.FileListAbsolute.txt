@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\1.AverageAndSumOfNumbers\bin\Debug\1.AverageAndSumOfNumbers.exe.config
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\1.AverageAndSumOfNumbers\bin\Debug\1.AverageAndSumOfNumbers.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\1.AverageAndSumOfNumbers\bin\Debug\1.AverageAndSumOfNumbers.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\1.AverageAndSumOfNumbers\obj\Debug\1.AverageAndSumOfNumbers.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\1.AverageAndSumOfNumbers\obj\Debug\1.AverageAndSumOfNumbers.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\1.AverageAndSumOfNumbers\obj\Debug\01.AverageAndSumOfNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\08.MajorantInArray\bin\Debug\08.MajorantInArray.exe.config
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\08.MajorantInArray\bin\Debug\08.MajorantInArray.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\08.MajorantInArray\bin\Debug\08.MajorantInArray.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\08.MajorantInArray\obj\Debug\08.MajorantInArray.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\08.MajorantInArray\obj\Debug\08.MajorantInArray.pdb

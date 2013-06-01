@@ -4,3 +4,9 @@ C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\14.Pat
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\14.PathInLabyrinth\bin\Debug\14.PathInLabyrinth.pdb
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\14.PathInLabyrinth\obj\Debug\14.PathInLabyrinth.exe
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\14.PathInLabyrinth\obj\Debug\14.PathInLabyrinth.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\14.PathInLabyrinth\obj\Debug\14.PathInLabyrinth.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\14.PathInLabyrinth\bin\Debug\14.PathInLabyrinth.exe.config
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\14.PathInLabyrinth\bin\Debug\14.PathInLabyrinth.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\14.PathInLabyrinth\bin\Debug\14.PathInLabyrinth.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\14.PathInLabyrinth\obj\Debug\14.PathInLabyrinth.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\14.PathInLabyrinth\obj\Debug\14.PathInLabyrinth.csprojResolveAssemblyReference.cache

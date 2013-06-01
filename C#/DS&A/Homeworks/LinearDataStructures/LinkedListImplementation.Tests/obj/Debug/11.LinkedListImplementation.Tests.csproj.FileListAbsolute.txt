@@ -5,3 +5,10 @@ C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\Linked
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\LinkedListImplementation.Tests\obj\Debug\11.LinkedListImplementation.Tests.csprojResolveAssemblyReference.cache
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\LinkedListImplementation.Tests\obj\Debug\LinkedListImplementation.Tests.dll
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\LinkedListImplementation.Tests\obj\Debug\LinkedListImplementation.Tests.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\LinkedListImplementation.Tests\bin\Debug\LinkedListImplementation.Tests.dll
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\LinkedListImplementation.Tests\bin\Debug\LinkedListImplementation.Tests.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\LinkedListImplementation.Tests\bin\Debug\LinearDataStructures.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\LinkedListImplementation.Tests\bin\Debug\LinearDataStructures.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\LinkedListImplementation.Tests\obj\Debug\11.LinkedListImplementation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\LinkedListImplementation.Tests\obj\Debug\LinkedListImplementation.Tests.dll
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\LinkedListImplementation.Tests\obj\Debug\LinkedListImplementation.Tests.pdb

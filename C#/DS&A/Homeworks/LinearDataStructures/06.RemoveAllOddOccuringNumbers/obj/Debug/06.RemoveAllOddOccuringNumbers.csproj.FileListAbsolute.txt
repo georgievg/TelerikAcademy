@@ -4,3 +4,8 @@ C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\06.Rem
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\06.RemoveAllOddOccuringNumbers\bin\Debug\06.RemoveAllOddOccuringNumbers.pdb
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\06.RemoveAllOddOccuringNumbers\obj\Debug\06.RemoveAllOddOccuringNumbers.exe
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\06.RemoveAllOddOccuringNumbers\obj\Debug\06.RemoveAllOddOccuringNumbers.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\06.RemoveAllOddOccuringNumbers\bin\Debug\06.RemoveAllOddOccuringNumbers.exe.config
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\06.RemoveAllOddOccuringNumbers\bin\Debug\06.RemoveAllOddOccuringNumbers.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\06.RemoveAllOddOccuringNumbers\bin\Debug\06.RemoveAllOddOccuringNumbers.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\06.RemoveAllOddOccuringNumbers\obj\Debug\06.RemoveAllOddOccuringNumbers.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\06.RemoveAllOddOccuringNumbers\obj\Debug\06.RemoveAllOddOccuringNumbers.pdb
