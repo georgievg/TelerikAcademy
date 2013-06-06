@@ -1,3 +1,8 @@
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\LinearDataStructures\bin\Debug\LinearDataStructures.exe.config
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\LinearDataStructures\obj\Debug\LinearDataStructures.exe
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\LinearDataStructures\obj\Debug\LinearDataStructures.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\LinearDataStructures\bin\Debug\LinearDataStructures.exe.config
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\LinearDataStructures\obj\Debug\LinearDataStructures.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\LinearDataStructures\obj\Debug\LinearDataStructures.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\LinearDataStructures\bin\Debug\LinearDataStructures.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\LinearDataStructures\bin\Debug\LinearDataStructures.pdb

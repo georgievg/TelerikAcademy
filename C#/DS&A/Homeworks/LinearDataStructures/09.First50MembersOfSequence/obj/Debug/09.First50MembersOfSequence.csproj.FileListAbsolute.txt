@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\09.First50MembersOfSequence\bin\Debug\09.First50MembersOfSequence.exe.config
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\09.First50MembersOfSequence\bin\Debug\09.First50MembersOfSequence.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\09.First50MembersOfSequence\bin\Debug\09.First50MembersOfSequence.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\09.First50MembersOfSequence\obj\Debug\09.First50MembersOfSequence.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\09.First50MembersOfSequence\obj\Debug\09.First50MembersOfSequence.pdb

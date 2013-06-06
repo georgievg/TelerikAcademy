@@ -5,3 +5,10 @@ C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\MyStac
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation.Tests\obj\Debug\12.MyStackImplementation.Tests.csprojResolveAssemblyReference.cache
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation.Tests\obj\Debug\MyStackImplementation.Tests.dll
 C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation.Tests\obj\Debug\MyStackImplementation.Tests.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation.Tests\bin\Debug\MyStackImplementation.Tests.dll
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation.Tests\bin\Debug\MyStackImplementation.Tests.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation.Tests\bin\Debug\MyStackImplementation.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation.Tests\bin\Debug\MyStackImplementation.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation.Tests\obj\Debug\12.MyStackImplementation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation.Tests\obj\Debug\MyStackImplementation.Tests.dll
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation.Tests\obj\Debug\MyStackImplementation.Tests.pdb

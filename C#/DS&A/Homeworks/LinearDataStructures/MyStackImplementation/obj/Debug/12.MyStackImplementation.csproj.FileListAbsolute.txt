@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation\bin\Debug\MyStackImplementation.exe.config
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation\bin\Debug\MyStackImplementation.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation\bin\Debug\MyStackImplementation.pdb
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation\obj\Debug\MyStackImplementation.exe
+C:\Users\student\Desktop\TelerikAcademy\C#\DS&A\Homeworks\LinearDataStructures\MyStackImplementation\obj\Debug\MyStackImplementation.pdb
