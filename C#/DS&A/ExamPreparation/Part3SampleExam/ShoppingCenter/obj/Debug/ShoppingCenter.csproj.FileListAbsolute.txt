@@ -1,0 +1,6 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\ShoppingCenter\obj\Debug\ShoppingCenter.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\ShoppingCenter\bin\Debug\ShoppingCenter.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\ShoppingCenter\bin\Debug\ShoppingCenter.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\ShoppingCenter\bin\Debug\ShoppingCenter.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\ShoppingCenter\obj\Debug\ShoppingCenter.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\ShoppingCenter\obj\Debug\ShoppingCenter.pdb

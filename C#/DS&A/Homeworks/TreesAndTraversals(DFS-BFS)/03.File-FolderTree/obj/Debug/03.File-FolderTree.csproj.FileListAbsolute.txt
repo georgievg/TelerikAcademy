@@ -1,0 +1,6 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\TreesAndTraversals(DFS-BFS)\03.File-FolderTree\bin\Debug\03.File-FolderTree.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\TreesAndTraversals(DFS-BFS)\03.File-FolderTree\obj\Debug\03.File-FolderTree.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\TreesAndTraversals(DFS-BFS)\03.File-FolderTree\bin\Debug\03.File-FolderTree.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\TreesAndTraversals(DFS-BFS)\03.File-FolderTree\bin\Debug\03.File-FolderTree.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\TreesAndTraversals(DFS-BFS)\03.File-FolderTree\obj\Debug\03.File-FolderTree.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\TreesAndTraversals(DFS-BFS)\03.File-FolderTree\obj\Debug\03.File-FolderTree.pdb

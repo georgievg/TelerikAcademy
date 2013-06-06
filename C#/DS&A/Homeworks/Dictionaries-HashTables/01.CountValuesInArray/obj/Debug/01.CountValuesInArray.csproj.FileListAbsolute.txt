@@ -1,0 +1,6 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\01.CountValuesInArray\bin\Debug\01.CountValuesInArray.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\01.CountValuesInArray\bin\Debug\01.CountValuesInArray.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\01.CountValuesInArray\bin\Debug\01.CountValuesInArray.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\01.CountValuesInArray\obj\Debug\01.CountValuesInArray.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\01.CountValuesInArray\obj\Debug\01.CountValuesInArray.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\01.CountValuesInArray\obj\Debug\01.CountValuesInArray.pdb

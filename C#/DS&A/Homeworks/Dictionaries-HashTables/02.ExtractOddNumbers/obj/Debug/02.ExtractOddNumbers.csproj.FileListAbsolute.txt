@@ -1,0 +1,5 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\02.ExtractOddNumbers\bin\Debug\02.ExtractOddNumbers.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\02.ExtractOddNumbers\bin\Debug\02.ExtractOddNumbers.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\02.ExtractOddNumbers\bin\Debug\02.ExtractOddNumbers.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\02.ExtractOddNumbers\obj\Debug\02.ExtractOddNumbers.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\02.ExtractOddNumbers\obj\Debug\02.ExtractOddNumbers.pdb

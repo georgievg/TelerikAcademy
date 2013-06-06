@@ -1,0 +1,5 @@
+C:\Users\student\Documents\Visual Studio 2012\Projects\Advanced-OOP\Advanced-OOP\bin\Advanced-OOP.dll
+C:\Users\student\Documents\Visual Studio 2012\Projects\Advanced-OOP\Advanced-OOP\bin\Advanced-OOP.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\Advanced-OOP\Advanced-OOP\obj\Debug\Advanced-OOP.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\Advanced-OOP\Advanced-OOP\obj\Debug\Advanced-OOP.dll
+C:\Users\student\Documents\Visual Studio 2012\Projects\Advanced-OOP\Advanced-OOP\obj\Debug\Advanced-OOP.pdb

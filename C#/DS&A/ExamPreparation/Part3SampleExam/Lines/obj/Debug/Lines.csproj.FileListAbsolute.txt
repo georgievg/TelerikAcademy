@@ -1,0 +1,6 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\Lines\bin\Debug\Lines.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\Lines\obj\Debug\Lines.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\Lines\bin\Debug\Lines.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\Lines\bin\Debug\Lines.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\Lines\obj\Debug\Lines.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\Lines\obj\Debug\Lines.pdb

@@ -1,0 +1,6 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\03.CountWordsInText\bin\Debug\03.CountWordsInText.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\03.CountWordsInText\obj\Debug\03.CountWordsInText.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\03.CountWordsInText\bin\Debug\03.CountWordsInText.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\03.CountWordsInText\bin\Debug\03.CountWordsInText.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\03.CountWordsInText\obj\Debug\03.CountWordsInText.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\Dictionaries-HashTables\03.CountWordsInText\obj\Debug\03.CountWordsInText.pdb

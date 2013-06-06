@@ -1,0 +1,5 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\DancingBits\bin\Debug\DancingBits.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\DancingBits\bin\Debug\DancingBits.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\DancingBits\bin\Debug\DancingBits.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\DancingBits\obj\Debug\DancingBits.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\DancingBits\obj\Debug\DancingBits.pdb

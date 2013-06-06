@@ -1,0 +1,6 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\WeAllLoveBIts\bin\Debug\WeAllLoveBIts.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\WeAllLoveBIts\obj\Debug\WeAllLoveBIts.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\WeAllLoveBIts\bin\Debug\WeAllLoveBIts.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\WeAllLoveBIts\bin\Debug\WeAllLoveBIts.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\WeAllLoveBIts\obj\Debug\WeAllLoveBIts.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\ExamPreparation\Part3SampleExam\WeAllLoveBIts\obj\Debug\WeAllLoveBIts.pdb

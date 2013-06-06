@@ -1,0 +1,6 @@
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\TreesAndTraversals(DFS-BFS)\02.DirectoryTraversal\bin\Debug\02.DirectoryTraversal.exe.config
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\TreesAndTraversals(DFS-BFS)\02.DirectoryTraversal\bin\Debug\02.DirectoryTraversal.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\TreesAndTraversals(DFS-BFS)\02.DirectoryTraversal\bin\Debug\02.DirectoryTraversal.pdb
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\TreesAndTraversals(DFS-BFS)\02.DirectoryTraversal\obj\Debug\02.DirectoryTraversal.csprojResolveAssemblyReference.cache
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\TreesAndTraversals(DFS-BFS)\02.DirectoryTraversal\obj\Debug\02.DirectoryTraversal.exe
+C:\Users\BlackHawk\Dropbox\Telerik\C#\DS&A\Homeworks\TreesAndTraversals(DFS-BFS)\02.DirectoryTraversal\obj\Debug\02.DirectoryTraversal.pdb
